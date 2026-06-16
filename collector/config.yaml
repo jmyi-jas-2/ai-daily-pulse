@@ -1,0 +1,150 @@
+# AI Daily Pulse - Data Source Configuration
+
+rss_feeds:
+  - name: "OpenAI Blog"
+    url: "https://openai.com/blog/rss.xml"
+    language: "en"
+
+  - name: "Anthropic Blog"
+    url: "https://www.anthropic.com/rss.xml"
+    language: "en"
+
+  - name: "Google DeepMind Blog"
+    url: "https://deepmind.google/blog/rss.xml"
+    language: "en"
+
+  - name: "Meta AI Blog"
+    url: "https://ai.meta.com/blog/rss/"
+    language: "en"
+
+  - name: "Mistral Blog"
+    url: "https://mistral.ai/feed.xml"
+    language: "en"
+
+  - name: "DeepSeek Blog"
+    url: "https://api-docs.deepseek.com/news/rss.xml"
+    language: "en"
+
+  - name: "TechCrunch AI"
+    url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+    language: "en"
+
+  - name: "The Verge AI"
+    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    language: "en"
+
+  - name: "Ars Technica"
+    url: "https://feeds.arstechnica.com/arstechnica/technology-lab"
+    language: "en"
+
+  - name: "36Kr"
+    url: "https://36kr.com/feed"
+    language: "zh"
+
+  - name: "机器之心"
+    url: "https://www.jiqizhixin.com/rss"
+    language: "zh"
+
+google_news_keywords:
+  en:
+    - "AI AND model"
+    - "AI AND outage"
+    - "AI AND safety"
+    - "AI AND pricing"
+    - "GPT AND model"
+    - "Claude"
+    - "Gemini AND AI"
+    - "ai AND RELEASE"
+    - "AI AND CEO"
+    - "DeepSeek"
+    - "OpenAI"
+    - "Anthropic model"
+    - "Sam Altman"
+    - "Dario Amodei"
+    - "Sundar Pichai"
+    - "Mark Zuckerberg"
+    - "Jensen Huang"
+
+  zh:
+    - "AI AND 发布"
+    - "AI AND 降级"
+    - "AI AND 泄露"
+    - "GPT AND 新模型"
+    - "Claude AND 模型"
+    - "Gemini AND 发布"
+    - "DeepSeek"
+    - "豆包 AND AI"
+    - "文心一言"
+    - "千问"
+    - "kimi AND AI"
+    - "智谱"
+    - "豆包 AND 发布"
+    - "ai AND 政策"
+
+categories:
+  model:
+    label: "新模型发布"
+    keywords:
+      - "launch"
+      - "release"
+      - "announce"
+      - "introduce"
+      - "unveil"
+      - "发布"
+      - "上线"
+      - "开源"
+      - "model"
+      - "模型"
+  incident:
+    label: "事故"
+    keywords:
+      - "outage"
+      - "downtime"
+      - "incident"
+      - "degraded"
+      - "down"
+      - "故障"
+      - "降级"
+      - "宕机"
+      - "泄露"
+      - "泄密"
+      - "中断"
+  statement:
+    label: "CEO发言"
+    keywords:
+      - "CEO"
+      - "Sam Altman"
+      - "Dario Amodei"
+      - "Sundar Pichai"
+      - "Mark Zuckerberg"
+      - "Jensen Huang"
+      - "says"
+      - "said"
+      - "表示"
+      - "发言"
+      - "回应"
+  business:
+    label: "商业动态"
+    keywords:
+      - "funding"
+      - "acquisition"
+      - "partnership"
+      - "revenue"
+      - "valuation"
+      - "IPO"
+      - "融资"
+      - "收购"
+      - "合作"
+      - "估值"
+      - "营收"
+
+  regulation:
+    label: "AI监管"
+    keywords:
+      - "regulation"
+      - "ban"
+      - "executive order"
+      - "监管"
+      - "禁令"
+      - "合规"
+      - "立法"
