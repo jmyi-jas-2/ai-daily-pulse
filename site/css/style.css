@@ -141,8 +141,8 @@ body {
 .quote-text {
   font-family: var(--font-serif);
   font-size: 1.8rem;
-  font-weight: 400;
-  font-style: italic;
+  font-weight: 500;
+  font-style: normal;
   line-height: 1.8;
   color: var(--text-primary);
   margin-bottom: 2rem;
