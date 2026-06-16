@@ -20,10 +20,12 @@
   --radius: 12px;
   --radius-sm: 8px;
   --transition: 0.3s ease;
+  --font-serif: 'Playfair Display', 'Noto Serif SC', Georgia, serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: var(--font-sans);
   background: var(--bg-primary);
   color: var(--text-primary);
   line-height: 1.6;
@@ -137,9 +139,11 @@ body {
 }
 
 .quote-text {
-  font-size: 1.6rem;
-  font-weight: 300;
-  line-height: 1.7;
+  font-family: var(--font-serif);
+  font-size: 1.8rem;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 1.8;
   color: var(--text-primary);
   margin-bottom: 2rem;
   letter-spacing: -0.01em;
@@ -149,6 +153,7 @@ body {
   display: flex;
   gap: 1.5rem;
   margin-bottom: 1rem;
+  font-family: var(--font-sans);
 }
 
 .quote-author {
@@ -502,7 +507,7 @@ body {
 
 @media (max-width: 768px) {
   .quote-text {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
   }
 
   .news-grid {
