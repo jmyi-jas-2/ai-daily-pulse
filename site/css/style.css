@@ -500,6 +500,69 @@ body {
   color: var(--text-primary);
 }
 
+.source-drawer {
+  display: none;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.news-item.sources-open .source-drawer {
+  display: block;
+}
+
+.source-drawer-title {
+  margin-bottom: 0.6rem;
+  color: var(--text-tertiary);
+  font-size: 0.7rem;
+}
+
+.source-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  max-height: 220px;
+  overflow-y: auto;
+}
+
+.source-link {
+  display: grid;
+  grid-template-columns: 1.4rem 1fr;
+  gap: 0.55rem;
+  padding: 0.55rem 0.65rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.source-link:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.source-index {
+  color: var(--text-tertiary);
+  font-size: 0.7rem;
+}
+
+.source-link-main {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  min-width: 0;
+}
+
+.source-link-title {
+  color: var(--text-primary);
+  font-size: 0.78rem;
+  line-height: 1.45;
+}
+
+.source-link-name {
+  color: var(--text-tertiary);
+  font-size: 0.68rem;
+}
+
 /* Limit card summary height */
 .news-item-summary {
   display: -webkit-box;

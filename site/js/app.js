@@ -13,6 +13,7 @@
   // Live data holders
   let featuredData = [];
   let allNewsData = [];
+  let currentDataDate = '';
 
   // ===== Utility: Text cleanup / escaping =====
   function decodeEntities(str) {
@@ -40,10 +41,29 @@
     }[char]));
   }
 
+  function escapeAttribute(str) {
+    return String(str || '').replace(/[&<>'"]/g, char => ({
+      '&': '&amp;',
+      '<': '&lt;',
+      '>': '&gt;',
+      "'": '&#39;',
+      '"': '&quot;'
+    }[char]));
+  }
+
+  function normalizeSources(sources) {
+    if (!Array.isArray(sources)) return [];
+    return sources.map(source => ({
+      name: cleanText(source.name),
+      title: cleanText(source.title) || cleanText(source.name),
+      url: source.url || ''
+    })).filter(source => source.title || source.name || source.url);
+  }
+
   // ===== Initialize =====
   async function init() {
-    const today = getToday();
-    const loaded = await loadDayData(today);
+    const targetDate = getYesterday();
+    const loaded = await loadDayData(targetDate);
 
     if (!loaded) {
       console.log('[App] No real data found, falling back to mock data');
@@ -57,11 +77,24 @@
   }
 
   // ===== Date Helpers =====
-  function getToday() {
-    const now = new Date();
-    // Adjust to Beijing time (UTC+8)
-    const beijing = new Date(now.getTime() + (8 * 60 - now.getTimezoneOffset()) * 60000);
-    return beijing.toISOString().slice(0, 10);
+  function getBeijingDate(offsetDays = 0) {
+    // Use timezone-aware formatting to avoid double offset bugs.
+    const todayInBeijing = new Intl.DateTimeFormat('en-CA', {
+      timeZone: 'Asia/Shanghai',
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit'
+    }).format(new Date());
+
+    if (offsetDays === 0) return todayInBeijing;
+
+    const d = new Date(`${todayInBeijing}T00:00:00Z`);
+    d.setUTCDate(d.getUTCDate() + offsetDays);
+    return d.toISOString().slice(0, 10);
+  }
+
+  function getYesterday() {
+    return getBeijingDate(-1);
   }
 
   function formatTime(timestamp) {
@@ -86,6 +119,7 @@
       const data = await res.json();
       const top3 = data.top3 || [];
       const allNews = data.all_news || [];
+      currentDataDate = cleanText(data.date) || dateStr;
 
       if (top3.length === 0 && allNews.length === 0) return false;
 
@@ -94,7 +128,7 @@
         quote: `"${cleanText(item.summary)}"`,
         author: item.sources && item.sources[0] ? cleanText(item.sources[0].name) : '',
         source: item.sources && item.sources.length > 1 ? `${item.sources.length} sources` : '',
-        time: formatTime(item.timestamp) ? `今日 ${formatTime(item.timestamp)}` : '',
+        time: formatTime(item.timestamp) || '',
         tag: cleanText(item.category),
         category: item.categoryKey,
         // Extra fields for bracket
@@ -102,7 +136,8 @@
         mentionCount: item.mention_count,
         title: cleanText(item.title),
         summary: cleanText(item.summary) || cleanText(item.title),
-        url: item.sources && item.sources[0] ? item.sources[0].url : ''
+        url: item.sources && item.sources[0] ? item.sources[0].url : '',
+        sources: normalizeSources(item.sources)
       }));
 
       // Transform all_news into grid format
@@ -114,7 +149,8 @@
         summary: cleanText(item.summary) || cleanText(item.title),
         mentions: item.mention_count,
         score: item.importance_score,
-        url: item.sources && item.sources[0] ? item.sources[0].url : ''
+        url: item.sources && item.sources[0] ? item.sources[0].url : '',
+        sources: normalizeSources(item.sources)
       }));
 
       console.log(`[App] Loaded real data for ${dateStr}: ${top3.length} top, ${allNews.length} total`);
@@ -127,6 +163,7 @@
 
   // ===== Fallback to Mock =====
   function useMockData() {
+    currentDataDate = getYesterday();
     featuredData = (typeof MOCK_FEATURED !== 'undefined') ? MOCK_FEATURED.map(item => ({
       ...item,
       trendScore: 0,
@@ -259,8 +296,22 @@
 
     grid.innerHTML = filtered.map(item => {
       const barWidth = Math.round((item.score / maxScore) * 100);
+      const sources = item.sources && item.sources.length ? item.sources : [{
+        name: '',
+        title: item.title,
+        url: item.url
+      }];
+      const sourcesHTML = sources.map((source, index) => `
+        <a class="source-link" href="${escapeAttribute(source.url)}" target="_blank" rel="noopener noreferrer">
+          <span class="source-index">${index + 1}</span>
+          <span class="source-link-main">
+            <span class="source-link-title">${escapeHtml(source.title || source.name)}</span>
+            ${source.name ? `<span class="source-link-name">${escapeHtml(source.name)}</span>` : ''}
+          </span>
+        </a>
+      `).join('');
       return `
-        <div class="news-item" data-category="${item.categoryKey}" ${item.url ? `onclick="window.open('${item.url}', '_blank')"` : ''}>
+        <div class="news-item" data-category="${item.categoryKey}" data-url="${escapeAttribute(item.url)}">
           <div class="news-item-header">
             <span class="news-item-category">${escapeHtml(item.category)}</span>
             <span class="news-item-time">${item.time}</span>
@@ -275,6 +326,10 @@
               </div>
               <span class="score-num">${item.score}</span>
             </div>
+          </div>
+          <div class="source-drawer" aria-label="提及来源">
+            <div class="source-drawer-title">提及来源</div>
+            <div class="source-list">${sourcesHTML}</div>
           </div>
         </div>
       `;
@@ -313,15 +368,29 @@
       startAutoRotate();
     });
 
-    // Refresh: reload today's data
+    document.getElementById('newsGrid').addEventListener('contextmenu', (e) => {
+      const item = e.target.closest('.news-item');
+      if (!item) return;
+      e.preventDefault();
+      item.classList.toggle('sources-open');
+    });
+
+    document.getElementById('newsGrid').addEventListener('click', (e) => {
+      if (e.target.closest('.source-link')) return;
+      const item = e.target.closest('.news-item');
+      if (!item || !item.dataset.url) return;
+      window.open(item.dataset.url, '_blank', 'noopener');
+    });
+
+    // Refresh: reload previous-day data
     document.getElementById('refreshBtn').addEventListener('click', async () => {
       const btn = document.getElementById('refreshBtn');
       btn.textContent = '刷新中...';
       btn.style.borderColor = 'var(--accent)';
       btn.style.color = 'var(--accent)';
 
-      const today = getToday();
-      const loaded = await loadDayData(today);
+      const targetDate = getYesterday();
+      const loaded = await loadDayData(targetDate);
       if (loaded) {
         renderHero();
         renderNews();
@@ -348,9 +417,9 @@
   // ===== Export to CSV =====
   function exportToCSV() {
     const headers = ['日期', '时间', '分类', '标题', '摘要', '提及来源数', '热度指数'];
-    const today = getToday();
+    const exportDate = currentDataDate || getYesterday();
     const rows = allNewsData.map(item => [
-      today,
+      exportDate,
       item.time,
       item.category,
       item.title,
@@ -368,7 +437,7 @@
     const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
     const link = document.createElement('a');
     link.href = URL.createObjectURL(blob);
-    link.download = `ai-daily-pulse_${today}.csv`;
+    link.download = `ai-daily-pulse_${exportDate}.csv`;
     link.click();
     URL.revokeObjectURL(link.href);
   }

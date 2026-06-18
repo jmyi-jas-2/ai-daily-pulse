@@ -1,6 +1,6 @@
 """
 RSS Feed Collector
-Parses configured RSS feeds and extracts articles published within the last 24 hours.
+Parses configured RSS feeds and extracts articles published on target Beijing date.
 """
 
 import html
@@ -29,16 +29,17 @@ def strip_html(text):
     text = re.sub(r'\s+', ' ', text)
     return text.strip()
 
-def is_within_24h(published_str):
-    """Check if the published time is within the last 24 hours."""
+def is_on_target_beijing_date(published_str, target_date_str):
+    """Check if publish time falls on target date in Beijing timezone."""
     if not published_str:
         return False
     try:
         pub_time = dateparser.parse(published_str)
         if pub_time.tzinfo is None:
             pub_time = pub_time.replace(tzinfo=timezone.utc)
-        cutoff = datetime.now(timezone.utc) - timedelta(hours=24)
-        return pub_time >= cutoff
+        beijing_tz = timezone(timedelta(hours=8))
+        beijing_date = pub_time.astimezone(beijing_tz).strftime("%Y-%m-%d")
+        return beijing_date == target_date_str
     except (ValueError, TypeError):
         return False
 
@@ -52,10 +53,13 @@ def parse_published_time(entry):
     return None
 
 
-def fetch_rss_feeds():
-    """Fetch all configured RSS feeds and return articles from the last 24 hours."""
+def fetch_rss_feeds(target_date_str=None):
+    """Fetch all configured RSS feeds and return articles on target Beijing date."""
     config = load_config()
     articles = []
+    if target_date_str is None:
+        beijing_tz = timezone(timedelta(hours=8))
+        target_date_str = (datetime.now(beijing_tz) - timedelta(days=1)).strftime("%Y-%m-%d")
 
     for feed_cfg in config.get("rss_feeds", []):
         name = feed_cfg["name"]
@@ -70,7 +74,7 @@ def fetch_rss_feeds():
 
         for entry in feed.entries:
             pub_str = parse_published_time(entry)
-            if not is_within_24h(pub_str):
+            if not is_on_target_beijing_date(pub_str, target_date_str):
                 continue
 
             try:
@@ -98,7 +102,7 @@ def fetch_rss_feeds():
                 "timestamp": timestamp,
             })
 
-    print(f"[RSS] Collected {len(articles)} articles from RSS feeds")
+    print(f"[RSS] Collected {len(articles)} articles from RSS feeds on {target_date_str}")
     return articles
 
 

@@ -285,8 +285,8 @@ def process(raw_file=None):
     # Determine input file
     if raw_file is None:
         beijing_tz = timezone(timedelta(hours=8))
-        today = datetime.now(beijing_tz).strftime("%Y-%m-%d")
-        raw_file = Path("data/raw") / f"{today}.json"
+        target_date = (datetime.now(beijing_tz) - timedelta(days=1)).strftime("%Y-%m-%d")
+        raw_file = Path("data/raw") / f"{target_date}.json"
     else:
         raw_file = Path(raw_file)
 
@@ -323,9 +323,11 @@ def process(raw_file=None):
         for article in group:
             source_name = article.get("source", "Unknown")
             source_url = article.get("url", "")
-            if source_name not in seen_sources:
-                seen_sources.add(source_name)
-                sources.append({"name": source_name, "url": source_url})
+            source_title = clean_text(article.get("title", "")) or source_name
+            source_key = (source_name, source_url, source_title)
+            if source_key not in seen_sources:
+                seen_sources.add(source_key)
+                sources.append({"name": source_name, "title": source_title, "url": source_url})
 
         mention_count = len(group)
         importance_score = compute_score(group)

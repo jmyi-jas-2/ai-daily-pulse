@@ -14,10 +14,10 @@ from collector.sources.rss_feeds import fetch_rss_feeds
 from collector.sources.google_news import fetch_google_news
 
 
-def get_today_date():
-    """Get today's date in Beijing time (UTC+8)."""
+def get_target_date():
+    """Get target date (previous day) in Beijing time (UTC+8)."""
     beijing_tz = timezone(timedelta(hours=8))
-    return datetime.now(beijing_tz).strftime("%Y-%m-%d")
+    return (datetime.now(beijing_tz) - timedelta(days=1)).strftime("%Y-%m-%d")
 
 
 def main():
@@ -26,21 +26,21 @@ def main():
     print("=" * 50)
 
     # Collect from all sources
-    rss_articles = fetch_rss_feeds()
-    google_articles = fetch_google_news()
+    target_date = get_target_date()
+    rss_articles = fetch_rss_feeds(target_date)
+    google_articles = fetch_google_news(target_date)
 
     # Merge all articles
     all_articles = rss_articles + google_articles
     print(f"\nTotal articles collected: {len(all_articles)}")
 
     # Prepare output
-    today = get_today_date()
     output_dir = Path("data/raw")
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    output_file = output_dir / f"{today}.json"
+    output_file = output_dir / f"{target_date}.json"
     output_data = {
-        "date": today,
+        "date": target_date,
         "collected_at": datetime.now(timezone.utc).isoformat(),
         "source_counts": {
             "rss": len(rss_articles),

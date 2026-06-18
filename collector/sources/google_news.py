@@ -1,6 +1,6 @@
 """
 Google News RSS Collector
-Searches Google News RSS for configured keywords and extracts recent articles.
+Searches Google News RSS for configured keywords and extracts articles on target Beijing date.
 """
 
 import html
@@ -20,16 +20,17 @@ def load_config():
         return yaml.safe_load(f)
 
 
-def is_within_24h(published_str):
-    """Check if the published time is within the last 24 hours."""
+def is_on_target_beijing_date(published_str, target_date_str):
+    """Check if publish time falls on target date in Beijing timezone."""
     if not published_str:
         return False
     try:
         pub_time = dateparser.parse(published_str)
         if pub_time.tzinfo is None:
             pub_time = pub_time.replace(tzinfo=timezone.utc)
-        cutoff = datetime.now(timezone.utc) - timedelta(hours=24)
-        return pub_time >= cutoff
+        beijing_tz = timezone(timedelta(hours=8))
+        beijing_date = pub_time.astimezone(beijing_tz).strftime("%Y-%m-%d")
+        return beijing_date == target_date_str
     except (ValueError, TypeError):
         return False
 
@@ -62,12 +63,15 @@ def build_google_news_url(keyword, language="en"):
         )
 
 
-def fetch_google_news():
-    """Fetch Google News for all configured keywords."""
+def fetch_google_news(target_date_str=None):
+    """Fetch Google News for all configured keywords on target Beijing date."""
     config = load_config()
     keywords_config = config.get("google_news_keywords", {})
     articles = []
     seen_urls = set()
+    if target_date_str is None:
+        beijing_tz = timezone(timedelta(hours=8))
+        target_date_str = (datetime.now(beijing_tz) - timedelta(days=1)).strftime("%Y-%m-%d")
 
     for lang, keywords in keywords_config.items():
         for keyword in keywords:
@@ -87,7 +91,7 @@ def fetch_google_news():
                 seen_urls.add(link)
 
                 pub_str = entry.get("published", entry.get("updated", ""))
-                if not is_within_24h(pub_str):
+                if not is_on_target_beijing_date(pub_str, target_date_str):
                     continue
 
                 try:
@@ -123,7 +127,7 @@ def fetch_google_news():
             # Polite delay between requests
             time.sleep(1)
 
-    print(f"[Google News] Collected {len(articles)} articles")
+    print(f"[Google News] Collected {len(articles)} articles on {target_date_str}")
     return articles
 
 
