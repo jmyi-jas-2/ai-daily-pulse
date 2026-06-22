@@ -1,0 +1,1204 @@
+{
+  "date": "2026-06-21",
+  "collected_at": "2026-06-22T06:12:57.842946+00:00",
+  "source_counts": {
+    "rss": 6,
+    "google_news": 144
+  },
+  "articles": [
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "source": "TechCrunch AI",
+      "timestamp": "2026-06-21T15:28:17+00:00"
+    },
+    {
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "source": "TechCrunch AI",
+      "timestamp": "2026-06-21T14:40:28+00:00"
+    },
+    {
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "source": "TechCrunch AI",
+      "timestamp": "2026-06-20T20:32:29+00:00"
+    },
+    {
+      "title": "In the Weights is your new AI-centric vanity search",
+      "summary": "So ... what's your In the Weights score?",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "source": "TechCrunch AI",
+      "timestamp": "2026-06-20T19:41:11+00:00"
+    },
+    {
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "source": "TechCrunch AI",
+      "timestamp": "2026-06-20T16:39:57+00:00"
+    },
+    {
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amoun...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "source": "The Verge AI",
+      "timestamp": "2026-06-20T14:46:48-04:00"
+    },
+    {
+      "title": "Will All New AI Models Be Classified As Military Grade?",
+      "summary": "Will All New AI Models Be Classified As Military Grade? Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTlBRmNCV3ZOUTFUT1ItUkZQeldKdlowRXRJNTBhTFpaWTd5eVJPRXM4dUNsM0xYWUdhY1BwWDc5Y3lVYXRBQ0drVGdYSVRRX1Izb1paZlpuUW9Mak9kbXVXNFpuajMtSGZoeVotYUw3a1RNcnFMMlItV2k1OUhsSENfMS1RcE1VdXlCRElBNVh4Uk9wdnZXV0pkUFNpeVc3X2F6cUcxbEs?oc=5",
+      "source": "Forbes",
+      "timestamp": "2026-06-21T14:28:43+00:00",
+      "search_keyword": "AI AND model"
+    },
+    {
+      "title": "Chinese AI models raise ‘sleeper agent’ fears after report finds more vulnerable code for US users",
+      "summary": "Chinese AI models raise ‘sleeper agent’ fears after report finds more vulnerable code for US users Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOU9ZNE04YV84MXRBaFdmTlpjYVBfZHMyVWRodFd5ZTZnVXpfZUxka2k5ZmdLNWdUNGd4V2M2RUJnaDhXbDdKS2hBMmJrUzNSN3hsd3F5aGxIeTdwNks3RXoxd1BOUjdDMElxd0s2T0hEa29JZVdCeEgyYmgtZHBFb01PdFBxb0Z1eFNwYURHWkwyQUhQcUlsTmotY19QRTV3LUxRRkw1VGt4T3daRjFfbjF3T1Vac3lPcU1NM3dLX2tHZlXSAcgBQVVfeXFMTU5YOURhSy1mazJKTm9ockthakJ2Y1ItUGQ4QlNGUVEtNzdZbHpPMVp3ZGMxaUFzcUJFUFNtUFNrMFVzRlhOY3BucnpUcWtqRWRrQVo3cDBiT1k2T0drTUVFUHlQQUxTQTkzamtESUlvRy1zQ01UZTRibVRGSEllU285RUpUN09LNW9PQzJvampJM3JnZUhycVRzenp2bUpwTEFra2hSYWpYM1NqSHRlRElFa0tobzN4LW8yOFoydGZqaXdnUjN3Qi0?oc=5",
+      "source": "Fox News",
+      "timestamp": "2026-06-21T10:00:17+00:00",
+      "search_keyword": "AI AND model"
+    },
+    {
+      "title": "Pentagon cyber chief says AI model breached almost all classified systems in hours",
+      "summary": "Pentagon cyber chief says AI model breached almost all classified systems in hours Türkiye Today",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV0dad0VNTG4tOUxRaW9pb3lvaDNnNHZRM2RHT1MxRm9YV25QTTJSbFl3ZHBleDkwMjZSNXhrMUFUdUtkREwwbTVfekl3RTh2LXYtc1hmdGhsUGVQZklGNVNqcU1ocE40NlNsd1lxYnZtQ2FTYWpZWmdjMWstajVRdnc4OEVjN2pWWUN1TGxPV2tQNlpqaTZsM3JqTTd0WmhrRjRDcHYwZUhBUEhNZmdTRzluUXhuMk1vcW9QUWRDQ0Z6SlE?oc=5",
+      "source": "Türkiye Today",
+      "timestamp": "2026-06-21T15:35:00+00:00",
+      "search_keyword": "AI AND model"
+    },
+    {
+      "title": "Is Bias in Clinical AI Good or Bad? It’s More Complicated Than That",
+      "summary": "Is Bias in Clinical AI Good or Bad? It’s More Complicated Than That MedCity News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRHVQTll3anlEcVk1MUtGMnFGb1E4eUF0ZmV3VnZKS2xyQjFKSFZyYlhNMy1tRnhhMkVwU0t5cFEyNWsyZkNkNFpwTUhIZ0hCWVI0cEpESFNER3E0eFNTdW9sdC1TUzJkMjlvZjVEM0E4RDJPSVk0cWpTLWs0WE1YNGhvMGRTWmVrcWJuTnF6dWJPSmJhRWxaVzBEQnkzSHc?oc=5",
+      "source": "MedCity News",
+      "timestamp": "2026-06-21T13:46:20+00:00",
+      "search_keyword": "AI AND model"
+    },
+    {
+      "title": "Why the United States Needs India’s Democratic AI Model - Pressenza",
+      "summary": "Why the United States Needs India’s Democratic AI Model Pressenza - International Press Agency",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRnpDTDZ1Y25IYmoyM0JUR0R3bl81MXRaU3B1SFBpUTh0al9nTk9TQU1kcWxLd19XZ0hWcUZHR1RYUzdiUTdFMDh4cU1UT0hBZ1haMXRpVTJKczgzNDE2NzhoVGRxZm9xSlZRZW1GVVVPN25OUllkRk5qeDBwQWRCNzE3aVVMSzFCZnpKS0JDb0FBRmc?oc=5",
+      "source": "International Press Agency",
+      "timestamp": "2026-06-21T08:36:53+00:00",
+      "search_keyword": "AI AND model"
+    },
+    {
+      "title": "Researchers have finally worked out why AI models keep inventing the same fake names",
+      "summary": "Researchers have finally worked out why AI models keep inventing the same fake names Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV0lYdlhyN2xYeEE2THBKRDdYSW80WE1GMFZFUWU0R3Y3aDBGZTFGdHU1SUlTS3VuTnpBN1VNNGpfV2M3TE9aV1J3SzBBbklDUC1UamNJZG5UeF9hblBjcGZOUkNTT1N2OVgwTXg5RXRPbzN4MVp0N0NOTXhIZ1U2TWI1VTBXTzRNNXBrcW1EQXZRSmEyOVF0bTFYaDFZYXJpUm82QjhpN3Y0ZFQyWFNqRTZR?oc=5",
+      "source": "Startup Fortune",
+      "timestamp": "2026-06-21T08:21:00+00:00",
+      "search_keyword": "AI AND model"
+    },
+    {
+      "title": "Booz Allen warns of sleeper agent risks from Chinese AI models",
+      "summary": "Booz Allen warns of sleeper agent risks from Chinese AI models Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XVloySldpbkdlY3RxamwySm9XSUI3dkwtRFNnTTBiYXl5RWE1ckZUUVN3VzV5X1BUZ0hNT05sNHpCUlBIV3ZkeG1jalJMeHI4SG55MllNdWUzNkVXbkVHd2RWaUpzT3RzNHBUbGtKUVpETGZqbXlpMw?oc=5",
+      "source": "Crypto Briefing",
+      "timestamp": "2026-06-21T10:17:53+00:00",
+      "search_keyword": "AI AND model"
+    },
+    {
+      "title": "South African Startup Uses Google AI Model to Detect Lung Diseases in 45 Seconds",
+      "summary": "South African Startup Uses Google AI Model to Detect Lung Diseases in 45 Seconds ShiaWaves",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeUJ4OThuUHd0akkwUWZyY25QZllsVjZzMFd5S19OeW1tbDMyaHFCT3lvd0kzZVQ3bHpoX1JLM1NTMXJHNWRHaGpzcEZLWGh3YXpxZVd1dS1rS0k5X2NSU0FpNGk3RkF2RE1leFE2RGJ3cVZPQ0VlOTdqaUZ5emhHQktsUERoNDA5NE11SVRWbXl5Z3pIdWx6ZS1GMktvSDc3dGZONFRvYXlWNWRFZFAzdzI3NXAyUUVBRGl1d0w3LTFiX3RqNzJ4M0J6Ml9aajlFd0JRZFJB?oc=5",
+      "source": "ShiaWaves",
+      "timestamp": "2026-06-21T11:50:07+00:00",
+      "search_keyword": "AI AND model"
+    },
+    {
+      "title": "Two ex-OpenAI founders built a tool to measure how well AI models actually know who you are",
+      "summary": "Two ex-OpenAI founders built a tool to measure how well AI models actually know who you are Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmhFYTRZNDN3WjkwZ1l0Q2ZvYW12azRadEVqcjFDOWVubktra2dicEZaLXhWeW1Yd0lJUFByNnFGV2p6aDlkcENVRnAwMW9EdUtaRmdoaVFVUk43cF9nTTNIb2NVVk9hcVVkRUZUREVYMjBoUVI4d1Zjb21QeUN6cmxRc2J6a2dqc2pucmFqa2JXLWFhekdrV0hOSk1zaVFlNlVsOXRzYkp2TXlFcmNndnJaajluMDFxUkdV?oc=5",
+      "source": "Startup Fortune",
+      "timestamp": "2026-06-20T22:51:53+00:00",
+      "search_keyword": "AI AND model"
+    },
+    {
+      "title": "A New Generation Of Public Safety AI Is Helping Keep The World Cup Safe",
+      "summary": "A New Generation Of Public Safety AI Is Helping Keep The World Cup Safe Forbes",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVlBKSTBjb0N1bWVxMFlORV9xV1U2bEM0eUNKOWgzc2Q1TklTVjVHSHlIUHpMWkVqMlloc3E0bHNmbzdNLW9Wc1VIRkxDVVc5WmpZYlVRNENZdi16cDUxTXp4bC1STEk5TGpWVFAyS2g0QUVOWl83eWxVeTlvNUlqZjM1aGs5YUhxUGwzRHhZZFVPOHJwZzV6ODh5c2lBa1ppZWo1MlN1by0wdTZVNzc3TS1IWWYzeU83VlNCWDdrLTBFeE15?oc=5",
+      "source": "Forbes",
+      "timestamp": "2026-06-21T10:08:33+00:00",
+      "search_keyword": "AI AND safety"
+    },
+    {
+      "title": "FAA Partners With AI Firms to Enhance Air Traffic Control Safety",
+      "summary": "FAA Partners With AI Firms to Enhance Air Traffic Control Safety TravelPulse",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEp6SHRwUUZ1R3V0bjUxN0ZKOGFNUXpIRTNtN1FoY0VBMjlVcV9zSzdrUU10MzVrQXg4Q0UySTRZRnFtOVRLclJpTTQtZVNPYTVqaS05M1JuM3gyRldBOGxyWFR2UlZ2UUo4UHVTTXVnSUdBYVlDSElIQzBZX0pOeGdNUW40ekphT2x2eGFnamJrMEFUUGVIRzdEbjg5ek5zV3JyTGpJSXItYVRkeWtFdFg2N0s3dw?oc=5",
+      "source": "TravelPulse",
+      "timestamp": "2026-06-21T03:15:00+00:00",
+      "search_keyword": "AI AND safety"
+    },
+    {
+      "title": "Cookie Monster Explains AI Safety with Parable",
+      "summary": "Cookie Monster Explains AI Safety with Parable Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYklTLUdRSVRrSDRhYnJBazI4d0JVTjNGWTcwOGZHNDJJOGpEVkJybkxnQzNZUklEMHVuVThwLTJmSnBJcmVmOGludFJxdDFhTTR6VUxEVHJ5dDFPcXR6Q01qT0YtTHNJR2tQeVppWDIzWkQwcmpBdlJmSVV2U0M3dGhxd2JGaVFud1hFcGV5dnJuZw?oc=5",
+      "source": "Let's Data Science",
+      "timestamp": "2026-06-21T00:52:36+00:00",
+      "search_keyword": "AI AND safety"
+    },
+    {
+      "title": "Meta expands AI-powered teen safety protections across its platforms",
+      "summary": "Meta expands AI-powered teen safety protections across its platforms Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOQTVEOC01enhFd0o2ZHRjaTdRcVQ1RkgwMUJBc01sVEZtWktlcDNHc0NFWmU2czVXaHk4cFZOQ0xHajVzZEVLUzRscFdxR1loRVBqcjVvQWxkNFUtemZPVTlOb0VDZmdmcTRMT3JIeEtwcllEZ3BVN3p5dw?oc=5",
+      "source": "Digital Watch Observatory",
+      "timestamp": "2026-06-21T06:00:00+00:00",
+      "search_keyword": "AI AND safety"
+    },
+    {
+      "title": "Google DeepMind AI Control Roadmap: When Alignment Fails, Defense-in-Depth Takes Over",
+      "summary": "Google DeepMind AI Control Roadmap: When Alignment Fails, Defense-in-Depth Takes Over Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSHVwLXU4TWRIa1BUSTM3U3NuT0ZVNUtkVjRBOS02eVp0Vy1nRk5jb05fbEplNFRqZ2Q2QUV1bEdTLU0ySF8xVDRzWk5ueVNhMWFYRXZCdmxyeURDZ0FCTVNBVkJSVXJHcUxtRnViWm1fam41a0NLMnN0LXJ4d2Fkd3JYZWQ5RnlvcG9TM3VHU3cyXzdBdl9oX2s0Z2lyU2J1THVHeWltM2Y5MXM0RGJGRGRoNGx3MEJpT2RoQnBvWnd6OVFwVmVDQkJtZUtRZzNP?oc=5",
+      "source": "Tech Times",
+      "timestamp": "2026-06-20T22:10:09+00:00",
+      "search_keyword": "AI AND safety"
+    },
+    {
+      "title": "UNESCO assessment supports ethical AI roadmap in El Salvador",
+      "summary": "UNESCO assessment supports ethical AI roadmap in El Salvador Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wdFA5NGpVU2twcVdVMm8zNXZ1Vm5mbjJHZThBUzQxenZEQUtidHVDc1pEZ1ZuZW9kTUdPSmJfRHFsaGxrRnpDclBPXzIyZmlybHlVaTRmbnpXY01uMUhuejREQXVzcGFCbElrN28yNVM5bFhs?oc=5",
+      "source": "Digital Watch Observatory",
+      "timestamp": "2026-06-21T08:00:00+00:00",
+      "search_keyword": "AI AND safety"
+    },
+    {
+      "title": "Microsoft (MSFT) Reworks Copilot Pricing As China AI Demand Reshapes Azure",
+      "summary": "Microsoft (MSFT) Reworks Copilot Pricing As China AI Demand Reshapes Azure simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOEF4M1V1YWdvbWlWc1JidGFaWExiYndiN1ppdUVGSlZzSGNMRURwYWJNb3RmM0w3d1NOVVh2SWpGZm90SV9EbXFERTJLTlpoZ1VSa1lxM3JGa01JSlhaUDJ5dUxTMlRBMDBtWFItVHdvYV9YbGxiZzhqa0UzSlpCeU5LUmc5SGVYc3J4RTZUQjRmQ1gwdENfd2RZS3UwSkljZ0FiTkxGSUJsS1BKZ2pVdGJTQmNHNzVoZzBvZlFxOVRHNmdaLUJv0gHMAUFVX3lxTE9LM3BOOGN3bjBRVlhjSmpPZTVUbTNmVS0wTXFNdVp4MHU4eFVnejFPS2pMdWs3ZVZVN2VXa0lQZ1ZWVVk2cDlrNHpUSG9RdG85RU1mV0d4andodDNRYi1sTlhHRHpLbzcyT25tX3BVTm8tTTdlUTNOSlhSTnF6U1MxQzczWWVzQmU2LVltSjZCZDZlMTlrMjl4UlVFZGpiSzJRY2RJVXA1NXE3WWNabFBESXJLVGVuSG5tU0d1ZXNpWVJCTXB2WEVST0NNUA?oc=5",
+      "source": "simplywall.st",
+      "timestamp": "2026-06-20T16:35:32+00:00",
+      "search_keyword": "AI AND pricing"
+    },
+    {
+      "title": "China’s AI models compete on cost efficiency for training and inference",
+      "summary": "China’s AI models compete on cost efficiency for training and inference Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FOGlDNnlzeWFlcXRrNTVCQm9YQWFIT2MtRHdOVVppaHk0amFDNTRFV1BFeUlveFFxN2ZLamFKelprRkRMNklCS0JwQ0NQbUhScUFKbkg3WGhNckdhVGxNZ29kbUFIZW92M0tz?oc=5",
+      "source": "Crypto Briefing",
+      "timestamp": "2026-06-20T16:55:54+00:00",
+      "search_keyword": "AI AND pricing"
+    },
+    {
+      "title": "Semiconductor Equipment 'Iron Law' Is Being Broken as AI Demand Reshapes Pricing Power",
+      "summary": "Semiconductor Equipment 'Iron Law' Is Being Broken as AI Demand Reshapes Pricing Power Pandaily",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PX096cGsxbEk1b3d3RURLdXMzSXRpeEZjbFdRbTRtZFd4VFFzREg0ZDNyeVhNbnVoR0YwSzRnNjVFVVkxRGtlamFSMmQ1UTdsVE1pVEVoMzZMVmsxcng5Y1IxYWUyMHBOVC1YRWNwelBjOGJid2RB?oc=5",
+      "source": "Pandaily",
+      "timestamp": "2026-06-21T08:03:14+00:00",
+      "search_keyword": "AI AND pricing"
+    },
+    {
+      "title": "Is the AI Token Subsidy War Ending? Structural Dynamics Reshape Pricing",
+      "summary": "Is the AI Token Subsidy War Ending? Structural Dynamics Reshape Pricing Pandaily",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96ZUNDLWlLcGstRkp0d05mNUxSRVd3Yjl3R2xBTkpCU28zZVNFRUxmNm1IY2JiOU8xV2hSLUVhVjZQZkUtdW9iYXJmS29iR0xxdlRGb2swb3Zvci02OXdSSHVRcmg5NVE?oc=5",
+      "source": "Pandaily",
+      "timestamp": "2026-06-21T08:03:14+00:00",
+      "search_keyword": "AI AND pricing"
+    },
+    {
+      "title": "OpenAI's GPT-5.6 models to launch next week",
+      "summary": "OpenAI's GPT-5.6 models to launch next week The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczJOTDRwek5tVi1JamhtZk1FUEZucFc4MDVsN25MNi0tMmRnaXJxcjdqNk8tUmtuTG40Zzg1eDBxVld2X0N2NTFNazY2alV0WURxWUZjdFQyRFpPSTBPZFYtM2xzX3dnUFRVbC1MUVZVOXRZUWNYZUxIOHJONEx1eEVTR3BpN0wzck81dXVKbUFvOXVpOWdNYnBwd0p1bGs?oc=5",
+      "source": "The Standard (HK)",
+      "timestamp": "2026-06-21T10:42:46+00:00",
+      "search_keyword": "GPT AND model"
+    },
+    {
+      "title": "GPT-5.6 may launch next week: transitioning from 'models' to 'executable agents,' with pricing potentially just one-third that of competitors",
+      "summary": "GPT-5.6 may launch next week: transitioning from 'models' to 'executable agents,' with pricing potentially just one-third that of competitors 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYzlidFltQ2NleWVNNkZVX2d3ei0yUGN4VUlhalI3aV9yUlp4aTF1cWdmZFQ0aklkSmtVWG9fSXlDU2VCdnRocUlTX1NQUk9XNlR4X0lGTEphVlkwT3ZfdVlKNF9ib3dWZll5cTA4ZFgtWEhMaDVleTZnZklFanZxa2wtRDd4QXJHZy00dm9jTy1qbTBGMkNsWjVIVQ?oc=5",
+      "source": "富途牛牛",
+      "timestamp": "2026-06-21T05:24:00+00:00",
+      "search_keyword": "GPT AND model"
+    },
+    {
+      "title": "I tested Claude Code, Codex, and Antigravity on a real electronics project — only one actually finished",
+      "summary": "I tested Claude Code, Codex, and Antigravity on a real electronics project — only one actually finished MakeUseOf",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY3V3b1RkVTlpdVNVNXhaSFlUOUhmMGcxT1dxUHlzamxxTzRyY2dUN0FGdWhKZ3FkZElvcUxqVURCQjFGOWlFNEpvMldPNUZiQkdYaUs5RGNtSU9MWTJOeUY1UWd4YUFYNjYtbm8tS3FsWUU5dGRqaHN5VkFMQnBDS3pGSWR2Mkx0MGQzQUdBTDRoQUxQRTRYMDFja3Q?oc=5",
+      "source": "MakeUseOf",
+      "timestamp": "2026-06-21T11:00:17+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "Claude Identity Verification Starts July 8: What Facial Data Anthropic Collects",
+      "summary": "Claude Identity Verification Starts July 8: What Facial Data Anthropic Collects Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSEhmelJUbUxDMkdtNTRzWEFjenpnMWhKeHJNRHV6UkxJS1AwbjB0M00wOHpwNS0ySmMxV1ZVREZuSWpCa2c5ZzZvdDVCSXNfa2FfMVJxZmVqZ2Qzbms2THRkRjVIVlEwWFl0LU5FOVEyS0pMZXMtNzhaZEprVEIwZXdQOVJxM2w1Y2ZWMkpUMklBTVhDNjVKOG9Cak1YRFpTWnp3c3p4U01nc2pzM3g3NmVCS2FPMmJkRzNQQkY2TG1XZUlVSXJwRmdGckV0dw?oc=5",
+      "source": "Tech Times",
+      "timestamp": "2026-06-21T13:52:55+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "I asked ChatGPT and Claude to plan my next dream trip to Japan with Viator — one delivered much better destinations",
+      "summary": "I asked ChatGPT and Claude to plan my next dream trip to Japan with Viator — one delivered much better destinations Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUHdUdmN2SV9YRkZOekl3d0xxSmR5NGYwYlJGZVFSWVBBeThtM0xJVjQ3anR4ZlZuWDhWdkhMRnMxNFdMTm52SE1DSFpnOGRacG1ZOV9zNDJWWHNTTVA5LVVWQWtOaUd5SE5rVk9uWTB2dUwySmhoUDFlLWdITHJpWnRFNUlYUExvQzY1MkQzVTI2eFlZZmFsd20yTXRXM0UyNXViZjVvSWZLU25NZFpsemtKdzJES2NJNGEyb2UtbUFyVy1GZlhjWlJwZlViVjhIaHdjZW05ekhJUQ?oc=5",
+      "source": "Tom's Guide",
+      "timestamp": "2026-06-21T08:30:00+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "Claude Guillemot, co-founder of video game maker Ubisoft, dies in plane crash",
+      "summary": "Claude Guillemot, co-founder of video game maker Ubisoft, dies in plane crash CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUW5mSHlNUmFIbHNna0xEamxaZXhSeXp3d0RkSE85dWxtODFJOTc2WHFQYkJ3bldUQ3Buck9SYU9rRWp0UEpCbzQ5ZDdYc0Z6ZlhlbDY5eVZOX2Z3bDNBUndvZVhNREc3d3MxVUFkR29EUHNybC1vdkF5YkstRzdySi1CdGtKZThkRlE?oc=5",
+      "source": "CBS News",
+      "timestamp": "2026-06-20T16:34:59+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "Response incomplete claude. Is Claude down? Claude api error",
+      "summary": "Response incomplete claude. Is Claude down? Claude api error Asbury Park Press",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUXBpU2JzbGd4NnpaM0poaGg0WVBYUzcyQ0RFV2haN2FzSXI0VXBGZjJKQzgtX3Ixd2k3Nm1taFFLSVlwaWNjQWJqaS1nNGg3U0FyN1huVjRhbDc1ZXR1TzNzTWM3bmgtNnZoWWlTdnU3Z2Y3X1ZJUFNsMkFJcy1yN3NFNFFrN2ROVnNhTFFqMVZCa2UwVzNlc3pTdXN0WlFUMXZKYUZLSzZMUWM?oc=5",
+      "source": "Asbury Park Press",
+      "timestamp": "2026-06-20T17:22:00+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "Ubisoft co-founder Claude Guillemot killed in plane crash that claimed 2 lives",
+      "summary": "Ubisoft co-founder Claude Guillemot killed in plane crash that claimed 2 lives Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2IwQjJDVF9zLWZPQnBHUWFad2hXbDRRcVVFS1NacmIzamtITFZtOGpVZ3AwWGMxNW8xeDBGUkhWQl8tQVY0ZzFQWWNpQW9vMkt6VXFXT3lIUUsxanVBckMxMmVuUF9IcTlaSnZPS1REeFRlM2JBcksyVm5SNXV0N2lpUzBiRkF1ZWFudlZNU1lmTnVtQ0JOdDRsdmhSa0dPbDZfOUJvLUcyX2lLOVHSAbMBQVVfeXFMT05NN3puQjF1dVNwY0JLMnFUZFpOSlN4dy16ZlJ5cTh6UjFlaVZocTFWLWdzUTdpX2NBV1Y2R0R5V01HdjdNSVFOQ2tlUFhnZWd2RmxyQmRHdDVjX043MUpla0w0ZTVSUGI2YTZzdllfY0U0c282S19peWhtWThlSnRMVWtTeDU1alNqM1BsUGRtOWlIUnlKc3JockMyNDVUQTJObHFkVy13M3ZuQy1hUW5lRDQ?oc=5",
+      "source": "Fox Business",
+      "timestamp": "2026-06-20T22:28:00+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "Obituary: Claude Guillemot, one of Ubisoft’s original founders, was killed in a plane crash",
+      "summary": "Obituary: Claude Guillemot, one of Ubisoft’s original founders, was killed in a plane crash Massively Overpowered",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSDJxdVNxTld2cnA3N2hnak9aSEJ0NW1saG9fV3lwcWVpU2ZVMXhKQ1drVEJ3TjZSZ0Z4VlBPVnBZaVBBZkVvcktGaDg2VzdoazZPNzBleE9SZWw2OUhGRkFsWlFSaUFQcHY2YWtDRzgyQmVWVDRpYVNJNE9nQTlyVEtDcUJGS1RUdG9sNkRCZTg2ZnpfcWp3dXA1SllrMTBGZHFwV2MxNTZqeVBNWFJoeFpUMTRXWUxKdk1iazBWc0o?oc=5",
+      "source": "Massively Overpowered",
+      "timestamp": "2026-06-21T15:00:00+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "Fable 5 was too smart for its own good, so Anthropic had to kill it",
+      "summary": "Fable 5 was too smart for its own good, so Anthropic had to kill it How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbW9yMmRVeHEySUlaMUJGRWpTem9UOE1ubXZkQW1meC1TZUVBUml5TmZldFpEal9YdEF5STJmbHRnbzdpVnZTN1d5R2JKUnZGblZUeUxhRk9YMjdCdHp1eTVWQ0lxVE1FSkVjOXR5M3J2V0p6TGFGb2k5RFpSY1FZTmtUdUZGLXJ2UTk4?oc=5",
+      "source": "How-To Geek",
+      "timestamp": "2026-06-21T11:30:16+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "A lifetime of ChatGPT, Claude & Gemini in one place for just $70 during Deal Days",
+      "summary": "A lifetime of ChatGPT, Claude & Gemini in one place for just $70 during Deal Days Macworld",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0JFbjY0bnRabFhOR1VTbW5lSWQteFhqZU9NM05aZmYyeWNDOGc0Nzh2VW5EOXZLMXhlYWdKX0RYVmYzZEM1cC04TWFIN1d1VFJiWFYtVi1tLTZQdXlMWV9xLS1WRWttS0kxOThnX1FYdm9QdC1WeHNlbnlKMVV4TlIwRl9KVWRmM3N6c2hwWnBMOTFVU1FTbXQ0YUFMM1hkeG9VcFEybVZXVTVxWVpFS3puNjZTNzRaYkFDbHBrZDk?oc=5",
+      "source": "Macworld",
+      "timestamp": "2026-06-21T08:00:00+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "Ubisoft Co-Founder Claude Guillemot Has Died in a Plane Crash - News",
+      "summary": "Ubisoft Co-Founder Claude Guillemot Has Died in a Plane Crash - News VGChartz",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnpEeFdHUEt4OGZlcFJ6QVFNb2ktTVNzZnRnVmlPUHF2OVNmdFVDOWNOLUY1U3lvSVFITWlNQWpSYkQyRnBoRGZ4VkRWUFZCam1fRmdjM3ppOEpqVHZTNFMwakk0N2N5cVZyOUxibS1yQWgxelZKSmkxd3RncWVKdGlldVp1MGhzM3dfRFhvYmNKYUJrbE9lY25JQlJJeWV6d3ppYw?oc=5",
+      "source": "VGChartz",
+      "timestamp": "2026-06-21T14:32:52+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "I refused to pay a service to transfer my Spotify playlist—so I used Claude and ChatGPT instead",
+      "summary": "I refused to pay a service to transfer my Spotify playlist—so I used Claude and ChatGPT instead How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSVpOQmtqOXpzYWZNY0dzNlFwLXFRdWN6ME9laHg0b2UwQVZ0WE5QbjlWbU5DZEVXanplaF9UR0g3Z0hQS0REM1I0eHVTM254bjE2d19VRGl6U3V6d1U0SGFrRm5oYUcyMlZwdHl0ZkF5NjFNaGQ3T0xsNGI5WTN2ejVpSUdhZlVnck9jM0tDNzRKeUR4UHNFekJqUndIZ3RndXc?oc=5",
+      "source": "How-To Geek",
+      "timestamp": "2026-06-21T15:45:17+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "7 unusual ways to use Claude Cowork that have nothing to do with coding",
+      "summary": "7 unusual ways to use Claude Cowork that have nothing to do with coding How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qbGdTQ1Q0V2VjSV9qVjhmbG4zSzlTMFJtbFBjekxINWhPOFE4dVNXNG05WU1LMjlLbUpobUdpLTBTZ0hnZ1dWTlo5M05aZW1TSlV2aUwtcTFhT3ctN01YUGVLQlB6c1gwZXpLQQ?oc=5",
+      "source": "How-To Geek",
+      "timestamp": "2026-06-21T12:45:16+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "Ubisoft co-founder Claude Guillemot dies in plane crash — French publisher established in 1986 became one of the biggest entertainment companies in the world",
+      "summary": "Ubisoft co-founder Claude Guillemot dies in plane crash — French publisher established in 1986 became one of the biggest entertainment companies in the world Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPRVhMLXJIclpONi1UOG5kUXpkOXBkUDZEeXdTLWhkUU9YMzd5Njl3R3VYSFdlZWY2OU1BdnkxX2Q3WXVyaFBSbmZQNmt3WklwRTNybzBBS3lZajFkUkszMUVJREFKYWNiODV3Q2hNdDg4eUh1RE1vY2dPajNtQWR4eDhXRnYwWlJycWtlNVVwU0IxV0ItSUpzWDBTMWpEVWN4cVd5WFpDYlZqaVlwaVFWTUg1czc4Znh3SEgtTld3bUJmMmxGTU40bks4WmFOdjdmZDhDUGh4Mks5UDkySkZjVHZOY0lxZG5rRE5zS2NrWk1yYmhFTlc1T3FQSkxLdkRBU21kTVNMeERjSG16MXlMcTc5eDE1YXZWZGRFNjNnVVozUQ?oc=5",
+      "source": "Tom's Hardware",
+      "timestamp": "2026-06-21T14:04:20+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "Ubisoft Co-Founder Claude Guillemot Killed in Plane Crash",
+      "summary": "Ubisoft Co-Founder Claude Guillemot Killed in Plane Crash TMZ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzaWR3QlVMdm1SV1NjamhlU2RJUklGYkxKX1EzbWQ5SlI1b0NPMjYzVi1jRXJ0Zjczd3BkMzIycjZrdmhBR3lwZ0Z3R0lQdUwwQU5pSlBBQWRIWnNsUGhWbmxxTQ?oc=5",
+      "source": "TMZ",
+      "timestamp": "2026-06-20T18:51:46+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "Claude Victor Deal",
+      "summary": "Claude Victor Deal Legacy obituary",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdzMxVFVtaWlQMGptQnhNME0wak9JNUhCT0E4RGlkNjhTQjFjZlRpblBCOW96TTVDZldxYV9UajFFSEJhMG1UZ0Y4dVdpajh2YnY1UHN2NXJ2bDBHb0gxMTlvY25fV1RuQ3FFMXl6N1pRUFN3aDgzdVR5UnZ5WklIMTI1RUI4OTRiV3dnZnVB?oc=5",
+      "source": "Legacy obituary",
+      "timestamp": "2026-06-20T16:51:03+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "Ubisoft Co-Founder Claude Guillemot Dead at 69 After Plane Crash in France",
+      "summary": "Ubisoft Co-Founder Claude Guillemot Dead at 69 After Plane Crash in France IGN",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGFrOVFBREc0eXZYVHJoZHpoWV9ibFR3SElCSVZibU0yYXhpeUVkYXpWdWN5cjRPQTJvbndTZ1d6NF9RdWRlQ3JZYWlwdjFtanU2enNGN2RzVHVXTkU1WUZPZU0tVms3VGFVT25SMWpPX3F5b2RKdHFDWEg5a195ci1JeENUTEQydnV2LVU1SHFjQmg5XzVTeWdwSUxCSHp0WDRCcHRn?oc=5",
+      "source": "IGN",
+      "timestamp": "2026-06-20T16:00:18+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "This AI Tool Puts ChatGPT, Claude, and Gemini Under One Roof for Only $55",
+      "summary": "This AI Tool Puts ChatGPT, Claude, and Gemini Under One Roof for Only $55 PCMag",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2ppVTgybFN2cnh2Tl9ubUNnN1cwbHhCOUdEQWJnMUFVUjM2SGRmU2lwWEpXSzdLeUxYNENZb0tlc0NuSDBGT3FUaWRiaXRiR2o2RFduS3dXUzQ2OXZMbXhiSk4wQ0tyR2tuZ2FfQW1tNFVGV0VRSzlXeTJmLTR0U19zRFNGWTJSaTNHOFdVWHpDdzk0TmVaU2Z5RkZlZFE?oc=5",
+      "source": "PCMag",
+      "timestamp": "2026-06-21T11:06:36+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "Ubisoft co-founder, Claude Guillemot, dies in plane accident",
+      "summary": "Ubisoft co-founder, Claude Guillemot, dies in plane accident Video Games Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjFBdWhNeGJiaEo3UzYyN2pqV3JOQlBNLUxqcUN3SUJzWXdwNTZIZUdhdndPT0NFM2QxMFNoX0xKOHZ1LWpWMkNESHFqUVdoRlZvZHlPd1A1VjFlblFuazhXOG9BTzNIWUltVWNSSkM5S1ZMV05TN19YNmZ5SnRSQjFpNzVKUXN0RENualljdVEtNUk0Vi1mQ0ZsWTM5cl9RWlE?oc=5",
+      "source": "Video Games Chronicle",
+      "timestamp": "2026-06-21T11:31:22+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "Consolidate Your AI Subs Like ChatGPT, Claude, and More into One Tool for $70",
+      "summary": "Consolidate Your AI Subs Like ChatGPT, Claude, and More into One Tool for $70 entrepreneur.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdXF1QWFldUxSMGkwYklHdFRMQWtxYmhFVzh1aUhNM240T2g5UWhibzh4R01DeFhFR0Y3WnNYRVc0cUY1RTRZaGM5Ykl3RDJua1U4NHVldUw1TXE0UUtWdkVDOXVYRVhuVndaOHBiMUkxeXlJaVA0VHFaRVdzaWxuRHp2UWo3TnJRUXl5MDQzR2R3MXBlTl9nZEkxa2RkcDJ3Q3VPenYxRUIyVDNS?oc=5",
+      "source": "entrepreneur.com",
+      "timestamp": "2026-06-20T17:00:46+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "Claude Guillemot: Ubisoft founder killed in plane crash",
+      "summary": "Claude Guillemot: Ubisoft founder killed in plane crash Sky News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFJ6SzVHaWw1VzRUUnlRYW9XeXIxRDFGWnhQUmtncERqRmxfdS1za1dwaVlaWGVNUXI5cnV1UHhmU0J5NW84TDdCdGtrWlUxRDVrX2RGa25LbkRMM196VEhoSUV6b0swT2FwbGtqV2FveHBsX3BLbGY5MURpMkZqTVgxUDRLNmkwc3pvNUxuY1pkYmxD?oc=5",
+      "source": "Sky News",
+      "timestamp": "2026-06-21T02:54:40+00:00",
+      "search_keyword": "Claude"
+    },
+    {
+      "title": "Father’s Day 2026: 10 Gemini AI prompts to generate father-child images for Instagram, WhatsApp, and Face",
+      "summary": "Father’s Day 2026: 10 Gemini AI prompts to generate father-child images for Instagram, WhatsApp, and Face The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOOHR3djVXN04xRHBhNnV1Q3RWZVdxczBmdTBIVU9XSVgzU0dvdjJsZkRiWVFDTXpjenVIOEZQMVV0b0duc2piZlJyVVl0ZVA5RS1TMnd2aUVmakRaVjQwQnVlNWJveUY0ekVzeVQyUjZGVGVKNXRvX203TGg2LW1GLVJTdkFsbVQ2elY4TXM2S2MzVWdtbHBTbV9TcjFlUE5EelZWbDV2Z0d3elYxM2RQaG9PQTNXYnBMNHNRLVV2cWsweE9XaWZEVFBMTEltaUE0bVFVLXVNVldSbkpDeVFBak0zNUF1UmRpTUt5VllWTW9nUmsxVkhqZDNkWURncFl1M1QwdkxjUTBGRlFSaDBLYmpFa9IBmAJBVV95cUxOT2lEWDY0cFMzX3NKN21iaDZ5MXd0ZmZoTDJ2RFVzX3Q4SzJvcEpoZnVPaWc4N2JRRzAtaDAxZkp2X0xYdXFsZUMtWXBYUVFKT2d0QmxjWWFjc1FxbTMyZXBaXy04RGpueDNXMTdjakdwbXFXUURqY2c5UERXTlc3blFIWWxka1M1ZGZSQXJTNUdURHJUeXFYRkc5cHpGZlV3T0ZJeUxHRVZFUDZKVUlZOE5sVjdtQUZYWXAxd1lDcFZGSFk4ckp6S0hhRERyTUtmZFhXNEpEOFpYOW5aZ0VjX25KRHY1SUVpX0lZU0M4TEhsekhELXFURVdTSnh0WUFZTXVIeDlVVHU1cjJsTTQ3Vmg0TGlLU0Yx?oc=5",
+      "source": "The Times of India",
+      "timestamp": "2026-06-20T17:28:00+00:00",
+      "search_keyword": "Gemini AND AI"
+    },
+    {
+      "title": "Fetch.ai publishes tutorial for building a Google Gemini image generation agent",
+      "summary": "Fetch.ai publishes tutorial for building a Google Gemini image generation agent Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QLV9WWmdGemVRWWdYOTJkNnhhN0c3bWxRQ3lheEIwRlJmMnZYdnBkM2ZJQW51WlI1QVV2NGtRY0NiODJYM2dGS1VrUXVZd0ItZW9mUTA1alR5cENwSlJsLVVZTUU1dlU1QlpTb01fQjhCd0lO?oc=5",
+      "source": "Crypto Briefing",
+      "timestamp": "2026-06-21T08:56:26+00:00",
+      "search_keyword": "Gemini AND AI"
+    },
+    {
+      "title": "Google Ad Manager Launches Ask Ad Manager, Gemini-Powered Publisher AI in Beta",
+      "summary": "Google Ad Manager Launches Ask Ad Manager, Gemini-Powered Publisher AI in Beta Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlIzZkEzLWZsMUhsZ1RhSDhEbXRTdGFla3IzaDNRNDYzNFRnai1EeENROFFtbjFYTzExOWNQMGVkLW1mbnNyMWZqdVZ0ZFNWQjY2Mi1wQjhMR1pnRXhfYV9HYXhSRmdxSC1GejJtYjFxVFdTNTBFcHFCU2VwOEdiZkVreVUyTWlSWlFLRFJfeW5sV2R2dllnUDdqRlZUV0Rwb2wzTERvdGdRMFJQY1R2M2pINjF1Qm5zNzhEWF9Zb2Zyelhmc29UUQ?oc=5",
+      "source": "Tech Times",
+      "timestamp": "2026-06-20T22:36:07+00:00",
+      "search_keyword": "Gemini AND AI"
+    },
+    {
+      "title": "Sundar Pichai at I/O 2026: Gemini Spark and the Agentic Turn",
+      "summary": "Sundar Pichai at I/O 2026: Gemini Spark and the Agentic Turn StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVZCVGZvVVBmOG5jbnF4SkJhSFZDS09kTXhJTUJ1XzN2TE1jTEd3c0c1YUk1M3FQb2ZPWDlvejBoZFEzNEtESEFYQ1NsTHRtUFNMUklqQUFnc1RHaC1faG5nX0w4T19uRnBfSmZEM2hJYWRYV0dWUHFGUXAzTW1mLUNDcTlkd05rdDV4b21WQWxVbVZXNUJXaXZKaWdxc25pdGdFbzhaSjhudEVtZE1V?oc=5",
+      "source": "StartupHub.ai",
+      "timestamp": "2026-06-21T08:00:00+00:00",
+      "search_keyword": "Gemini AND AI"
+    },
+    {
+      "title": "How to disable Gemini prompts in Google Docs",
+      "summary": "How to disable Gemini prompts in Google Docs The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeThDM1lPRkFSUWxBY2VZVjB3OXhqell6eVVmWk1ESzZuOWNWUndVcUhVM01kUTVpQmEwRHdjNWVBcXFqd0xYbm5FSXFlYXcxM1UxOW5jVkdQWWJON0szdXFNaEpLVnNvd1ZPWjdseW5tbU9xazlibm42QkZxdlVGaGZtM0ZaaG85YTlyOFpXZXZjOUNnX2F3MmliUlJ5MTA?oc=5",
+      "source": "The Daily Star",
+      "timestamp": "2026-06-21T10:05:57+00:00",
+      "search_keyword": "Gemini AND AI"
+    },
+    {
+      "title": "Google, FBI target Chinese scammers using Gemini AI for fake sites",
+      "summary": "Google, FBI target Chinese scammers using Gemini AI for fake sites Bangkok Post",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVJ6azBrV0NtVzNYUGVFNFc1bHE3bnBraGExRXVSTWt5YVlLMll5WmhFQTdsNWk4Tzhma2s0NVhHX3Bqcy16QjFHck81blZtampIMnNHWFpoQWpvWlg4TlMxUVZMZ2pYQWRTal83Y2k1RXB1d2VjaUJ6ZkN0ZTUzZlNqYk56T1d2WnBSN1lQbTBMX2RBcWMxeEJyWkdncnZLUWtiZVYyay1pMzZBd09waw?oc=5",
+      "source": "Bangkok Post",
+      "timestamp": "2026-06-21T03:18:00+00:00",
+      "search_keyword": "Gemini AND AI"
+    },
+    {
+      "title": "Apple's home automation updates & new product releases will stretch into 2028",
+      "summary": "Apple's home automation updates & new product releases will stretch into 2028 AppleInsider",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR1d5TmhZVWpoZk9OYy1ubThmYlZtWXQ5d0d6RkpzUExvS0xZbTdwb2lsU1JVZFlaWDlabFlCUGw0elZYMWltLTliU0pHNWVPenF4aklhMkdGU3BIYkJ0T0FEUjlIdzAwWERZTGs4QUtTdVhvOTN0Vl8wd0FMdUFoc1ZBU09Dbm8xUUJHelRRanBKWkRlMEhLUW9LVzEwWXMyVklOX2lEZ2wtR3VwMmZVcllXWkhTZUNJ?oc=5",
+      "source": "AppleInsider",
+      "timestamp": "2026-06-21T14:40:00+00:00",
+      "search_keyword": "ai AND RELEASE"
+    },
+    {
+      "title": "Darktable 5.6 Open-Source RAW Image Editor Released with New AI Features",
+      "summary": "Darktable 5.6 Open-Source RAW Image Editor Released with New AI Features 9to5Linux",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZWE4ekUzamJwUURlREJsSWhFRENPWWdra2JkdkNFSW8xZEI4clFMbGl6VXphMTNFRXhNc3ZGdmxISF9sbGQxREtXQmp6UzBwRVpnVGFpazlmeENQRmVLRkxJczhhYnV3Y3hxUVZXMzhwRmFpMWYxZG9Ndl8yMk9lZTI0b05nLXh5YXNWMTBKeS1KMlRnajh0bHhR?oc=5",
+      "source": "9to5Linux",
+      "timestamp": "2026-06-21T15:52:59+00:00",
+      "search_keyword": "ai AND RELEASE"
+    },
+    {
+      "title": "Micron Technology (MU) Set to Release Earnings Amid AI Demand Bo",
+      "summary": "Micron Technology (MU) Set to Release Earnings Amid AI Demand Bo GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbVdObG9laDYtaGhDR01wOGh6TEl1MXBycEFYblZqYUF0ZVhlTkVGb09LRzVnRmpOaDRTalNVZlBDOVNzVlBzV2lwcDh2SGdQNXpCc3lTOFdVNFNFZ19iSkIxamE1SWlreDV5NFFWY25pckhEYlJPUS0wQ0pycDY2TXNFNmRybkl4RVRBbVc1UHBnWjZZdER0b0s5RjNhY3VzZ0VQRURtVQ?oc=5",
+      "source": "GuruFocus",
+      "timestamp": "2026-06-21T15:38:57+00:00",
+      "search_keyword": "ai AND RELEASE"
+    },
+    {
+      "title": "The Conservative Party recently released an AI-generated ad. How do voters feel about this kind of content?",
+      "summary": "The Conservative Party recently released an AI-generated ad. How do voters feel about this kind of content? CBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTlZEelNqd1NpNXpWQWVGTnFOdzB2bFhjNUVtSng2Wk9JNThNTVBybU9qRnIwZHlYVV85RjBVVDRTUVZodjBqUnNqRVNJUzA2STk4elVkSnZlN0V5N3JlWGtpZ0tMc3RTREl1bUtORk1tR3FNRzdSeUk5b0c3TUZvQThR?oc=5",
+      "source": "CBC",
+      "timestamp": "2026-06-21T08:00:00+00:00",
+      "search_keyword": "ai AND RELEASE"
+    },
+    {
+      "title": "Chalmers refuses to release AI guardrail gap analysis",
+      "summary": "Chalmers refuses to release AI guardrail gap analysis InnovationAus.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSDA2UkI1MTBGVXRyLWhLNkw3eG9vM3ZpcVo2MjlqaHJrYm1fUzJBaXNLdnhudDNrb2NyNVIzYmhJMFJaX1FoNnJQSE82ZFdIUzhPT2M3U2FZako0NlpKWnRLMzNRRF9qOWg1Q3FQQ3p5TUhDQ3BpVGxxbDV3VFBFb0JFTldQTmZtdjJROQ?oc=5",
+      "source": "InnovationAus.com",
+      "timestamp": "2026-06-21T08:18:22+00:00",
+      "search_keyword": "ai AND RELEASE"
+    },
+    {
+      "title": "GM’s CEO: Humans Aren’t Coding Self-Driving Cars Anymore, AI Is",
+      "summary": "GM’s CEO: Humans Aren’t Coding Self-Driving Cars Anymore, AI Is 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWjRpNkpiNkpmT1VYSzR1N2JhaXB1R3dycWxoa1JVbjdfaWhlNU9tTmc5WEVRQndQUzBNX1d0MXotb1FwSndZVXMwaFJxS1JwQ250eXBZaldWaEROaC1sRnFEdkZVVXMya2FlcFlLRGdSZWpPU1d6RkNIaHRPTnFHclRmbXJ4VGpxR2V3NFNUT1VWaDlVSnlXcGVNVURzMkRuSl9DREx3?oc=5",
+      "source": "24/7 Wall St.",
+      "timestamp": "2026-06-21T13:00:17+00:00",
+      "search_keyword": "AI AND CEO"
+    },
+    {
+      "title": "Apple’s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse",
+      "summary": "Apple’s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWVBnejBWdHd5VEl0UHl3WS1IWnh5WWNCX2ZUVkxUY1YxdUVJZndwVlE0dG83Q3AtZTBSZmVwZUdLbFJveUQtaWIwQjVTTHZmc3J1SUJnOWtHVVpIVlBCWHJCMjZsRHZzX01VM2dXb2R3SW5oQmxnV1dEWk1HRmFhWGN0X2trdDJ0TzRNWVFwaE1vZWlFV2w0Q1NHQ3dsRDlxNkg4RGEyZWZVaWZJdlBtUTFKVXlsY1hfQXA0?oc=5",
+      "source": "24/7 Wall St.",
+      "timestamp": "2026-06-21T12:30:55+00:00",
+      "search_keyword": "AI AND CEO"
+    },
+    {
+      "title": "Sam Altman thinks AI will surpass human intelligence by 2030. His rival AI billionaires say it’ll be even sooner",
+      "summary": "Sam Altman thinks AI will surpass human intelligence by 2030. His rival AI billionaires say it’ll be even sooner Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQU9tLUFlZUtVN2pLckdSM1pKYy1hYzlWRzhCTnUtYkFrSGRqclBFa1dGckJkUVM0SVA3TXZmNkxFRzBxaEt2d1ljMlp2cExRMXNYNWNiUFlFMVR6SEl1dGp6aGtrQ25mNDBvT1MzbFQ1REV4Z0M3RDBIUEZFN3BibDdTdkpJRUNfNDljQ1hKOEpFQnlPLVlROE0tZ1I1aEE0cWpR?oc=5",
+      "source": "Fortune",
+      "timestamp": "2026-06-21T10:33:00+00:00",
+      "search_keyword": "AI AND CEO"
+    },
+    {
+      "title": "AI can improve lives, Nvidia chief says",
+      "summary": "AI can improve lives, Nvidia chief says The Arkansas Democrat-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbE9yQ1p3U0dCUC1BaHBWZzNVeUJ3RG1FbzUxWjNfcnozcXBTZTVoMGZPckNpV29zRnJ5bjg1SGFXT2tQaTk1bUNoRkpzRGRDSHZ5ZUY3eVNscGpHNUlPeGVJbllDQ3Y3dmZEM1BNaHNaQ2VlOHFKQmQxU1QzQmViWEJycm9rNHJrUlEzTXl6SUo?oc=5",
+      "source": "The Arkansas Democrat-Gazette",
+      "timestamp": "2026-06-21T07:46:00+00:00",
+      "search_keyword": "AI AND CEO"
+    },
+    {
+      "title": "Tech CEOs Push for US-Led AI Coalition at G7 Summit",
+      "summary": "Tech CEOs Push for US-Led AI Coalition at G7 Summit AI Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVnVpclNJQnhDeUFUdkJTd2dDbU9PUlBSd2xFTElZX2M4Q0c0NHdqZHhTTEtrM2g2WXNJR0poTndrdGpDcS1LU3J3RWNOMHlqZlMwcmZOTkFHdGJSVmh0QnRpQlh3UDRXT29YeFNCd1JtNEU5T080aG5VMTFnYVI5cXpiSERUQQ?oc=5",
+      "source": "AI Magazine",
+      "timestamp": "2026-06-21T08:06:35+00:00",
+      "search_keyword": "AI AND CEO"
+    },
+    {
+      "title": "Apple’s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse",
+      "summary": "Apple’s Incoming CEO Draws a Line on AI: Tools Serve Products, Not the Reverse Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGJlWl82SXJPaEllb0RObjBvdE1Wb2xMcnZyTEhhTTNqZ3NrenV3S2J5VHJqTEFYMmw3Wk5YR2RNTGhhb2Juclhpc1NHd1hYclM3aUdlSzFtaGNRekFjSHlJQXdZc0pzRlZWcXIxd2l3UXp0dmNsQTF5NWVFQ0phX0tSMTdmM25faHZxaHhjb2NmaFJxR3RwQw?oc=5",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-06-21T12:30:55+00:00",
+      "search_keyword": "AI AND CEO"
+    },
+    {
+      "title": "Why J&J’s CEO Calls AI a Healthcare 'Force Multiplier'",
+      "summary": "Why J&J’s CEO Calls AI a Healthcare 'Force Multiplier' WSJ",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaW5OVXFNWVdfdU1xcElKamhSYVdsc1hnVWt4MXkxcUpYWXVFQk1rWlhfeHNqZVBQaE5GSlp0aTA2Z0RyQm8yd0g2MVN4TmlkeWRzQkJGZWdwazhLeXhPSDNNN2tWUldwc1lDS3U1QkhYd1NyVjlKVjJJTUF3dlZwVDZLWW9GX3pZcnpyelY4SHkySDFzanBEV2FPRTJ5R1NIZEx1UzZZV1dqcndMLWxxTFQ2MVJ0UjNTbFV1VUxBMkRzc3RiZGM4QUJjb2tOUGxMcllJcE1VdlNPM1FKaXJGbDlvMm5PV3BW?oc=5",
+      "source": "WSJ",
+      "timestamp": "2026-06-20T21:38:29+00:00",
+      "search_keyword": "AI AND CEO"
+    },
+    {
+      "title": "Why an AI CEO kept interrupting everyone on a popular podcast",
+      "summary": "Why an AI CEO kept interrupting everyone on a popular podcast Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX2E2NG4wRFVQcnlzbUdsRVdjUjJKUHFjZFpWa0FNa1YwcW9GbjZfQXJjYnF3M2VaTVlPUVJidlJGMnFvMkhtbGpScEkxNHBOMC04VkNKaWxLUDVxdG04WE1YMVpoUWNsdTlMXy1yZWdOM1d0aDJVaTkwVTJSdU1VQWNKcw?oc=5",
+      "source": "Yahoo",
+      "timestamp": "2026-06-21T12:00:00+00:00",
+      "search_keyword": "AI AND CEO"
+    },
+    {
+      "title": "After years in CEO Jensen Huang's orbit, these Nvidia veterans are building a startup community of their own",
+      "summary": "After years in CEO Jensen Huang's orbit, these Nvidia veterans are building a startup community of their own Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmo4M1NNRVRIdFgyLVJaak9YdWlIM0o3blAzNm5OZHhvdTE1UGo2VDlrWmF1MUNOUjl4anVKVG1ielc4SFk0Wno3c2VQajZ4RmZfQ3J1UzVQQURleXloMjZEbjBnclF1WjNPbzVmN21ueWRwWTFEUDAtc05Oa3UtT05EdHRCZ2tHUkd4cU44cWRPV2Z3c0gyNQ?oc=5",
+      "source": "Business Insider",
+      "timestamp": "2026-06-21T09:00:00+00:00",
+      "search_keyword": "AI AND CEO"
+    },
+    {
+      "title": "Anthropic AI CEO Dario Amodei Warns $1 Trillion Compute Era Could Push AI Firms Toward Bankruptcy Risk by 2027",
+      "summary": "Anthropic AI CEO Dario Amodei Warns $1 Trillion Compute Era Could Push AI Firms Toward Bankruptcy Risk by 2027 Brave New Coin",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZmIyT3hsbmV1bndSTjlYY0RmemVySlZEZ3V0Nkx5b1pxdTlueTlQeGw1ekdhUlF1QWxiNm1WT0FMbjBLNmxMOTI0SDRManFrQXZEV0xkYWYtTmlHamc1VHNlOGYtUzZsRy1rUlNlVC1FY0RRbThhRXh6OEVJcEhLOGJld0VLekFjT2FRM21IbGtMR09CaHZWZW1VVm9HRnpqaENvcGwxR3pQRm1CWGNwcXRuSHNkY3RYcmJlODdnNGdpODAwbk5HN2FkZUhzSXNoaTdaQ2pDRlZaQlU?oc=5",
+      "source": "Brave New Coin",
+      "timestamp": "2026-06-21T13:38:15+00:00",
+      "search_keyword": "AI AND CEO"
+    },
+    {
+      "title": "NVIDIA’s CEO Says the Jobs Doomsayers Have It Backwards. Here’s Why",
+      "summary": "NVIDIA’s CEO Says the Jobs Doomsayers Have It Backwards. Here’s Why 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONm1FSzVOWmRQMGZPNkgzdUNOX2pGOVhHSk52dk14aUs1ZTlpeVRTMEI2OTdhN0RCZ3pVd3BDaHhJbVZyZjM5WTdZbk10NmhUZ0RnNjIwWHItd0liSjdZUmNQX202UE0xdnYwTlJ5Sk5jZ2VJaHdLdk5YQkVHaDlCNFFsdEJPZmtMdi1yU0w3eU01enhsckF5bFdsNG02R1NXSG5BM0M1N0w3bWJC?oc=5",
+      "source": "24/7 Wall St.",
+      "timestamp": "2026-06-21T12:00:36+00:00",
+      "search_keyword": "AI AND CEO"
+    },
+    {
+      "title": "AI CEOs Attend G7, Pitch Global Standards",
+      "summary": "AI CEOs Attend G7, Pitch Global Standards Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTW9uSE5pcVhFV1AxV3YyMkptMk1zZk5fRkc5YnlueTVZUjZMWFhEa0p5aUtnd1VYbkpJNlBvRVlVYVhibDRRMWNkTERnMlBfT1QwMlRld0pHUHlXbDVnd2tHSEdCYlNqQjJoeWw0MGlIdmRDekRSRmVoTVpSOTMwZnVnaUlWeFQ5cnc?oc=5",
+      "source": "Let's Data Science",
+      "timestamp": "2026-06-21T13:10:29+00:00",
+      "search_keyword": "AI AND CEO"
+    },
+    {
+      "title": "Vercel CEO impressed by Z.AI’s GLM-5.2 coding capabilities",
+      "summary": "Vercel CEO impressed by Z.AI’s GLM-5.2 coding capabilities Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPdjBKZ29PX2xTbi1mcHJLRXE1MnBkZTY1NUtYUEJYQ2gzOVJDeHVXbkFCcV9VdDlXYU45elhNbl8wdC1ld1F6ZGdDR1VQSU9kbTFXajB6dlNaa3ZCZ3RqUzF3VnRRNXc?oc=5",
+      "source": "Crypto Briefing",
+      "timestamp": "2026-06-21T14:21:16+00:00",
+      "search_keyword": "AI AND CEO"
+    },
+    {
+      "title": "Joint The Witcher 4 and CD Projekt Red CEO says fully AI-generated games are coming, but he has \"some doubts whether this is really the path to follow\"",
+      "summary": "Joint The Witcher 4 and CD Projekt Red CEO says fully AI-generated games are coming, but he has \"some doubts whether this is really the path to follow\" GamesRadar+",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUkpjdEc5Z0FfZWpGZkNnVFJfTnloazBKNHpmYXBqREtQQnBpN3EyYlJBZEwwd1dVbDBJQUo4OGNNRTF5c1pENWNacmJad3docnZHMjJITmZIZUF6TndVZTA5WndiakVTX1Bmd05GMldRb2YwTzdSS0ZDM294YzJoZ0ptTWJ1ZnZFY1BxemZySXFJN2pVNm1yTndJdFQ1b0hKUTRUd3NmWE5vQ0NUQUd2a05RWE05eDFoMnRYNHFNZ0FkNU53a2x5WndDeUNnOTRBcTJ5YXlEWUNDVTdKRGh1VGxZankyZmZldjNERnI3Sk1WVGQ4Q0diN2o1RndRMlM5QWZFd3lsT0lvaVYyb2pQU3dBbDByU3ppYnpFRE9tRQ?oc=5",
+      "source": "GamesRadar+",
+      "timestamp": "2026-06-21T11:11:03+00:00",
+      "search_keyword": "AI AND CEO"
+    },
+    {
+      "title": "Qualcomm CEO Cristiano Amon to smartphone users: AI Agents are coming for your smartphones",
+      "summary": "Qualcomm CEO Cristiano Amon to smartphone users: AI Agents are coming for your smartphones The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdDEya1VOb2V1Y0lVVlh3ZHdPOG1wbk9QcjVIQmtjWGpMMElzNFI2eTd3ZG82X0xZeTAza3NCYlpOWjNLTXRCcXhhcmt1X3pBSWhDQm02NXBjOVpIUC1nemxaNVZDNXV4RzdQUlJqbkxYRFplWnhmSnZRekxDRGpqbWFrQmQyc0tzdkZEQlBOVFV5azdRaFQ1RkRId1U1aE8yWWU2cVFQc2ZJWUtZZmc2RXVWRGlNMlFGdFZ6QzJtSW11TTBOZ3hVbWtJMVJYYktrOXQtdms5LUpqQmlyVmZCU0JfWVBmWlBVUERSR1RPRkJkakpQalVHdTBRRjQ2Rk8xSUHSAYcCQVVfeXFMUGRscXBIbTFrN05zWS1XNF92cHk4QnhybW83aUJXbUxRWXZhYllVcmhnZDFhQzBONkptRjdKM2JabDlEVkJndlowbjNVSU9DZFBLZWNCOThhYkFidjFIRWxPQ2VBTG9icWNvTklaM1YtQzJaX1pYeFhIMl9kZWRYTVRuYUNzTW1vYlBvTFJHWXhnLURTamlJcnVkb0xNQmZMdEdobFFsS054TFhYVzNmTVAwZlJLVFJTODJra05lYUkyTjdoRGpJc3N4UXJjbGVlQ2ROQ29fRTk5TktNWVNXSUFBd1RUSUdwbDBOZk9Tb0habTJOdXdtQ3BXakdlT3pxWEVFWFhNbnc?oc=5",
+      "source": "The Times of India",
+      "timestamp": "2026-06-21T13:48:00+00:00",
+      "search_keyword": "AI AND CEO"
+    },
+    {
+      "title": "US Holds Off DeepSeek Blacklist As China AI Tensions Rise In 2026",
+      "summary": "US Holds Off DeepSeek Blacklist As China AI Tensions Rise In 2026 Memeburn",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGNvaVlkQ0ZkdExzcHJIWU5VcHlNckxpVEZCNHMxWFVBTV80ZUtkSnp5V1hJa3VjT1ZqUXJPX2J1cmVfcUNrU19TbmVUSVEtcVIwWm5zdlBjXy13RU9lNE94QUVmU0xQT0dmVDY4cDhSbGpZc2hXTHk2N0RZaHRVb1YtU1lmZjhIcjlYSTROSG0?oc=5",
+      "source": "Memeburn",
+      "timestamp": "2026-06-21T05:41:57+00:00",
+      "search_keyword": "DeepSeek"
+    },
+    {
+      "title": "Microsoft Weighs DeepSeek for Copilot Cowork as AI Costs Bite",
+      "summary": "Microsoft Weighs DeepSeek for Copilot Cowork as AI Costs Bite Memeburn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaTFieXhPUFFWbDkwRjdfVjV2Y0dMUkhpUm9NaHUzcFM0dnJzOUFxQkN1NHJuclJZLXIydlhteGFpRHluVXZzWGZjSFk4SkVENkdvOVJodnk3YmZ1d29zSEZtUDk0VFRUd0ZyNE4zSS1BNnBQY1lNZlh6V3NUU19sZktsNnMtaVhoOUtB?oc=5",
+      "source": "Memeburn",
+      "timestamp": "2026-06-21T00:47:17+00:00",
+      "search_keyword": "DeepSeek"
+    },
+    {
+      "title": "SpaceX’s 74-Day IPO Sets Pace for OpenAI, Anthropic",
+      "summary": "SpaceX’s 74-Day IPO Sets Pace for OpenAI, Anthropic The Information",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjFKUWliWk16ZVd0Qm5sLVNydTE2aG5qLVJ1Z25STzYtUzlSYjd3XzhlOU9LMlBsWXhGR3c5a1NGdHEzQ1R3REJaTDJlNWVzN2wtTUZHdzRJdXl4T2ZtOFltMWlBcmtmX2ZMMVM4THVNcHFtNjRIcFR2Vm45WVR5QkRYdXpxQXZvQ1VGcWxR?oc=5",
+      "source": "The Information",
+      "timestamp": "2026-06-21T15:00:00+00:00",
+      "search_keyword": "OpenAI"
+    },
+    {
+      "title": "'AGI Is Too Important'—Ben Goertzel's Crypto Bet Against OpenAI",
+      "summary": "'AGI Is Too Important'—Ben Goertzel's Crypto Bet Against OpenAI Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbVZrVFBvdDV6RkhJSjF5Q0RnSmpCOEU4QjFEelhKbFpNRGpEaGRKUU50Qm1meXhUUlUwdXYtdS1ScTJBd0V1anpJSldxODczM2tvOV9XVWxob1E1Y2Y3bkJSa3JOQ3Yyd2tOQVZQdmc3NUhUdGlOd3NzNnVickNHdmx6YWFFdlFFSWhybHM3VVNjcUxhVlhnbzFBT0lyOVVSVXJ4M2hidWNsX3RsaHBqLVdlRQ?oc=5",
+      "source": "Forbes",
+      "timestamp": "2026-06-21T04:36:54+00:00",
+      "search_keyword": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Massive Losses Strengthen the Bull Case for These 2 Artificial Intelligence (AI) Stocks",
+      "summary": "OpenAI's Massive Losses Strengthen the Bull Case for These 2 Artificial Intelligence (AI) Stocks The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZm5FTHVHZGZHSXhNUjB4c25vMFZJdGRrOWdrbWR1cTRuZlctdEw3Z21BYzgzRk5hUnpqLTNaSW1pb1kycGZ0YzBxOFFmQTRLQVF3a3Rrdms4dTJtdW96Vll6d01PSkVMUlQzME1aZkc4OGtNSUFNVGd3eFFmQjdXTGtVMWM0MVAxemx2RDdDejJLSjJ6ZWJ1Vg?oc=5",
+      "source": "The Motley Fool",
+      "timestamp": "2026-06-21T08:15:00+00:00",
+      "search_keyword": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Anthropic Poach Approximately 100 Salesforce Employees This Year",
+      "summary": "OpenAI, Anthropic Poach Approximately 100 Salesforce Employees This Year Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVWlsb2VfeTZGekxwWEhGNm5TNUl6ZS1SVlBVLVdnWm5Dck5yRlFpYXVHdmVXN3N6RWVaZW1pLUF1TGdTNE1nUThRS3lLQ2ZlYTVZTWgweDBVSmk5WW9uajVTQ3B6cUtzTVpvVlZkM0pjUlNWTGlWa1h2NnppRmdkdWJyYzFlRW9QTEk2S3UxcUlIRXk0elE2UnQ5a29vcHd6eVNKUFFNRQ?oc=5",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-06-21T12:31:52+00:00",
+      "search_keyword": "OpenAI"
+    },
+    {
+      "title": "Don’t Trust OpenAI, “This Is Your Final Warning”",
+      "summary": "Don’t Trust OpenAI, “This Is Your Final Warning” 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXc5b3hCNFhLVGt5U2p0ZVBEdGtUVjcwMjkxX1NiMllzWFNTMUU2eG5ncUJ6bVJZU29iMXM2dC1OQXhxU0NNc0c5dk5yR3czZ3lhX3ZGMWVpMjl1TlRCTHVXamk3c2NMTzBGYmJhLVBhbm9rem5maXdRTHVvbFZnVXlBSFFJRFRPRFFnVG9jWVFpQQ?oc=5",
+      "source": "24/7 Wall St.",
+      "timestamp": "2026-06-21T12:37:42+00:00",
+      "search_keyword": "OpenAI"
+    },
+    {
+      "title": "AI giants may soon enter your retirement portfolio. Should you worry?",
+      "summary": "AI giants may soon enter your retirement portfolio. Should you worry? The Mercury News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFNUcm9VMzBrQVU1WGl4VFQwWUpES0xaY1NxNE9UX2ZqZ0ZPU0VsQllpN1BYVi05aUdkZEV5bUhwOHd1dTlkVTdxNmVocGw5NW1DT0VIc3AxdVVsNTRBUmtlWlBMT3UzNEt0a0R3RXRWTkNTWm16N2RWbW5yUUhrOXdsQXVCRWFtRGI3bkJnam9HcXZHZjRTMkJuck5CV2FGTWs4VU9HRVJHVUnSAbABQVVfeXFMTk1wdEg1MUUtQWNReUVhZ2dfcGQ0b1IwVGk5Tk9lb083OWlaSlZZRU9aTUJvQlowZHVCV0t0UVNNRkhUVHdMdVRkb0JIWmtVLTVNZkthTEw4dVZ5TzZqRHBNUFJtS3dlYS0yZ2RDNS1SbGZrcjZlclRpWThRNnV4VWRvSENJU0JMcmtyRWx0VWlyZUp2dm5ETGNKY0lrSFJHdzg2VktvaFg5bVVZbW9ybGQ?oc=5",
+      "source": "The Mercury News",
+      "timestamp": "2026-06-21T11:30:51+00:00",
+      "search_keyword": "OpenAI"
+    },
+    {
+      "title": "Don’t Trust OpenAI, “This Is Your Final Warning”",
+      "summary": "Don’t Trust OpenAI, “This Is Your Final Warning” Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXpodDhWenVUNHZyMmdrTzRhcVNaNHpjRmNHN0QxeHc5Uk5vWTIwTTIwUDkxd0VydmZQRHhLSHFXeHRxVXR3TUtzVk1OR2N1YjczNUZmWFNlQ2pUQUhHMjJYSk5NV3lLQ3dKQXIyZGVBWTQzak5fbG1PMThrLXlRd2VtdW5HZkswYU91bkxaYkNxUQ?oc=5",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-06-21T12:37:42+00:00",
+      "search_keyword": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Massive Losses Strengthen the Bull Case for These 2 Artificial Intelligence (AI) Stocks",
+      "summary": "OpenAI's Massive Losses Strengthen the Bull Case for These 2 Artificial Intelligence (AI) Stocks Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdlZBNHVyNDZQZ3N4dms2eS1QY0paT3FuR1hnRnVlNGdINzBUM29EMFN1NXRNTFJwQkY4aURCM1owMF9hVE5pRktRTzhrYzB1Nm1kS0VqM3AxRXkwX1E5MThEMG44SHNaNEwtWWVLYkRKdzBVLU9LTFNRY052dlFQQ0piSlM3VFp1dFhfMTIxVlpfTHA1Zm15VVkxcURSd1hKTmI1Tw?oc=5",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-06-21T07:35:00+00:00",
+      "search_keyword": "OpenAI"
+    },
+    {
+      "title": "Microsoft Is Making Money From OpenAI's Models in China",
+      "summary": "Microsoft Is Making Money From OpenAI's Models in China Memeburn",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaU55Y2d6U00xX3lCUkIwQk5vU3BTNzdkNFdCNUlYaHl5eFZqdXdEcWJQdUhxQjRCbWNRNnc2SUNmellKN1ltSEszbWtpZVJ0MG5UV3RDOVJVeE5kY2VWSEhyWXFGNUtwVUYyazB5cU5hQjBoMkJjNXgtZDA1cUFrR0pB?oc=5",
+      "source": "Memeburn",
+      "timestamp": "2026-06-21T11:43:59+00:00",
+      "search_keyword": "OpenAI"
+    },
+    {
+      "title": "OpenAI's leaked financials show who is actually winning the AI arms race",
+      "summary": "OpenAI's leaked financials show who is actually winning the AI arms race Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSnJ1MUNsYjdjWGdOZDVPR0hadmdLMlctN05PbXQwMHBQeWE4T3RmNFJMUkt4SW1zX2Y2TGsteWhVSmJfUW5rdW16OGFZc3hHNlUzVWtQUDZqaGExWHhiLW03UjdBeUVyVUNFRGRoVHRxWGh2MnR4bzNEOGJNbkVhYTl3eDlra0dIZ19KOGR6U0JDNkhaYUE1OC04T1hZNjhs?oc=5",
+      "source": "Startup Fortune",
+      "timestamp": "2026-06-21T09:37:41+00:00",
+      "search_keyword": "OpenAI"
+    },
+    {
+      "title": "Anthropic’s Mythos Model Broke into Almost Every U.S. Classified System in Hours, a Senator Says",
+      "summary": "Anthropic’s Mythos Model Broke into Almost Every U.S. Classified System in Hours, a Senator Says Thought Catalog",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOW14YXlzXzFla1Ziek9WbHpQS00xV3dQaWpMMXJ3Nm5xLWFqRzBsdi01YkV3QkN5SmVqNUdoY0E0aEhPZmR5MzM0RGdvVXVJb1Q0X2VJczlzOGZreE1VOEVtVWpWZWdORzlSeS0wOG9mWUFpY0o5ZW9PVUJSR0xOZW5iRFFYX2FVa3ozSGhGdlJsR0pXcjhtZU5BVV84OEV2c3R0dEt2ang5MWlVYjdjVDlkajk0RVIxeTFmemkyT05KeUJGR1o4d0tGajVSLWFGX3Nsa2EyQ3lPSEFI?oc=5",
+      "source": "Thought Catalog",
+      "timestamp": "2026-06-21T10:44:02+00:00",
+      "search_keyword": "Anthropic model"
+    },
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "summary": "When the Trump administration cracks down on Anthropic, who benefits? TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYl9ZNjhvRHVpWWk0VGJ3ZlV4WG1ZOTJFUkhBU3lxYUZmT3diLUtUbzJhbnV6OXF1MGhBeWpLSFd4Z01qbVpmUzFMRFNrSVhxREVhcmdrMHREMTY3LXE2SHVTU2puYjFtRk1ld3p4VHJ4aEZqQjZJUFljaVh6dVNoVW9GYmxjZS00LVNSZHhVbnlvLUR3MTBuYmtXbUUxTVg3U1g2Ng?oc=5",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-21T15:28:17+00:00",
+      "search_keyword": "Anthropic model"
+    },
+    {
+      "title": "The FTX founder’s life behind bars & Sam Altman’s executive coach",
+      "summary": "The FTX founder’s life behind bars & Sam Altman’s executive coach The Profile",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qenhXbzNBNVZTd3prVmNMVG1UeUhrWGdSU0d0SWNvdlpzY0lIamlGaGRfcmktNmwydndXUTduT296R0MtU2lGcDAwRWJKMnZsUGp5MlAxbDRpTWVlZFVpQVlmc0llQTVWQm1YNS1obkY3Zllz?oc=5",
+      "source": "The Profile",
+      "timestamp": "2026-06-21T11:03:25+00:00",
+      "search_keyword": "Sam Altman"
+    },
+    {
+      "title": "Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do",
+      "summary": "Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do The Decoder",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMkgxUERXY1ZObXlRQ1QzbklEVlQ0ZXZVSXVaaElObUFLYlA2NF9BSm1wbUlzeDM0TE9mT1ZEcmVMRkZGUTVobjc4dzgwbU9WVFhpRW10WE53bGFWaVhQUWo4MFFRek1jUV8yb3JMakFoTFlXVTRna2dybzRLQW9TLVRVeDkwRkwyUi1pWXZNUXE5RElUczdxUThQeHBkcFFZcDdrUC1paEE0Q0NwSkxRWi0wRTMxRnp0QzkyVWRhOXFXYkpXRk9V?oc=5",
+      "source": "The Decoder",
+      "timestamp": "2026-06-21T09:18:27+00:00",
+      "search_keyword": "Sam Altman"
+    },
+    {
+      "title": "Amazon cancels Sam Altman biopic ‘Artificial’ after $50B OpenAI deal",
+      "summary": "Amazon cancels Sam Altman biopic ‘Artificial’ after $50B OpenAI deal Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3R1JZYzdtVGl5WDJrR2ZtLVAyeEZTTDVSQk9SQWlJd0h3aVlfTDlrTkt0S2NONWRBa0g2N2N3Y2VxT25JeUlmRU9CWFJKd2JDbDJySE9Yb3h3dDZseHI1MEd4UzVNb1oxcnJZM0RHTjBZeVk1RWVB?oc=5",
+      "source": "Crypto Briefing",
+      "timestamp": "2026-06-21T11:24:57+00:00",
+      "search_keyword": "Sam Altman"
+    },
+    {
+      "title": "Sam Altman believes AI will overtake humans by 2030: 'If we don't have extraordinarily...'",
+      "summary": "Sam Altman believes AI will overtake humans by 2030: 'If we don't have extraordinarily...' Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3Z6VXA2bkFlZG1pbFpvZW1WSk1QTjRNcE5QYzM3bXdGbURFNWlxaDQtb0lpMURpZUs3eU1fcGdKZWRwVkg0ZmMtY2puYUptOG5RRENQLWRjUFpIUkthT2xWWnpCSDZCMml2bFUwUUNieVU2NzBvRTlkcVliei1xV2pkSDAyeUo0Vy1BNEwzUDB2cWJKTTEzeFc4Ujc4aW9mX2VpS01qak16aFVJRWZaZEJULVR6WTJ0Zk8xdF82eWbSAcYBQVVfeXFMTTRjRUdoZ2RvVDNrQno1R1RBeFJFNHRWN1IyX0o3WkI4NmotYk9zUE9wQkVfcWZtX3dMeHo0ajBpQjh6b2Uxc0phYlpnZGM0RUkyRGxRVm1aaHBuWUw5ZDlwSWRsVk1nX0ZHWkNoRzFhSVJzOGJSV0tDSi1LbzU2YkxnaW9aclNzTE1jeEZFaERndlYzV0RhVnJmeVNtUDNheERaRkoyREVqY2N5M1hYUVBVcjBFN2NnSzFyZWpzUmFkeVVBUml3?oc=5",
+      "source": "Moneycontrol.com",
+      "timestamp": "2026-06-21T13:44:49+00:00",
+      "search_keyword": "Sam Altman"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei on leaving Sam Altman and OpenAI: Ultimately, someone else will decide who was",
+      "summary": "Anthropic CEO Dario Amodei on leaving Sam Altman and OpenAI: Ultimately, someone else will decide who was The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNODIwVy1YbmxtSDBsaVJRLXVodURET3VPWHNQcFozY05BYkZfbVJ1U1h5ZlFyb2VQS1B6ZkFXNjZqbUp6SWV6bDVpQnRpUTBtSUJPQjZFTkVUYmdROVJfT3IydF8zYUkxNWhqUGN0TWdLald2UjEta0lTcW5JNFF3cV81TGNOeXhMWTluVmNEUW44QWljYUQ2NjdKeGZwQm5FdjN5TXFaX2pCZ1o4bkFpQkN3Q1p2RTJkV3EyNnRqbVhRT0J0ZFltQnVUX05kTmotWVItRFRveWwzRHpWVlJSXzZKYTJVaWd2WERGMWhXX2NkUktZTkNpOW45ckRxcmpVU1hiV0UwdXNKYlo5NVlnOFBYRzB3Z9IBmwJBVV95cUxPMW13RC1WQlpxSHZvZTV2eVhMbUc0QkdKSHdVa1RickZteFBrSi1fM09TLTJObnUyNWxPbURsbVB4YXRuN0F4UzV3Zkl4R183T0hnZG1YVDZ3X29Ia1A4dVNaTlBzRnFYQm4yeERGOUlndnBEZVJzWDV6bXUzVHc4b21zak5fNGd2Nk05RnpKOFlkbTV5OEN5VWQxVjVYZzgySnFsazJGLWdodVNuLVlaUXBpOHNwcW50U19tSVYzYnRieXJManN4U291cEI2Uk1HNGRHVGtlYzVkdDdlbnAzVEtNZHh4V1hLSzNadUJ5TURYVFVPUXliMzlvaVA1TExyRmh5YVN3NF94VG5vNkNubHlzbjVDb2Q1d2dj?oc=5",
+      "source": "The Times of India",
+      "timestamp": "2026-06-21T08:34:00+00:00",
+      "search_keyword": "Sam Altman"
+    },
+    {
+      "title": "Ro Khanna warns Americans on Sam Altman and Dario Amodei attending G7 summit with Donald Trump; says: As",
+      "summary": "Ro Khanna warns Americans on Sam Altman and Dario Amodei attending G7 summit with Donald Trump; says: As The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNLVVMb0NJRjJOdEVSOTNGUDNHaVZCT280MEJ0THJpTmhGZmVrVllna19KTGpVSzN1NGR4WTVwSGdYM05TQkt2VFVoY3I1djcxVjZGLUlPWS1YdjJuNjFyNlFHbTZKOGNnS21tRXRHZUtxaXdTS3NGZXFlc3ZWa1czZVN2TnlsUEhNSFVkR19RTDVMYnNFcnBkVUFmVnBPWTJmLU1IR0xYOWx5bDZYVFk2bkxPbFN3aDlsT2d5OUxZQ2x2cDA2dTR4Y2V5SG5SdVhERTZQdUQydjVVWVRtWGdudmx6a1psQ18xVHJRWkZEUENKRUNkS1N4Nm1DYVpuR2tWdVp4bS14Q2ZROVljRW8yU0hISzA3QzEwbXYwMUpBX1k4c2lmbGRXSnc2OE8zRHdqT2VkbndTT0huWG5iS2JhMHhYWnBMT1ZCczMtd2hWVHMtY1Q0bU1zTWVMRWVsZDhMYlHSAecCQVVfeXFMUGh6RlRTZnZDb3FTV0JTNkE2ay1pdjhMTjBsNVlLTkJVT2wyNnp4WXp3MV9yWUphUUFkV25zQTNkQkNqekdSMHpDQlBvZms4X0pJdWc0MHh5SXVRN2JjX2pmRUhZb2w2dHlTaDlHWGI3ajhGX19QS2ktbm5oSVNRZGYxckh0ZGVZREFtZnp3TTl6YjFhNFdMbmJuQUIwUVJtQnZ3aXJCZGZ3cmZYeE1JNnV6eVZxT3RYWmVFNlNadjBWTXVibFpjSFZOMk5KdFgxZnQ4RFRwYXhYTS1FNWg4SzFmWV9sSlV5YTJseW9oUGJZZTAtR2FEUkw1YkVDSHgtdDdaMUpxTzRpUHlEa0NFNWlqM1B1VEQ2U3gtQkdtV2RkUjNyN1I0dlFSQkUxb3UwQkMwWHlRVk0zYjNqWGViZlNwMEtRbWl2OXU2aURJM2RTdFU4UjUtVS1Id1cxcnZZVjhpanpGXzQ?oc=5",
+      "source": "The Times of India",
+      "timestamp": "2026-06-21T11:11:00+00:00",
+      "search_keyword": "Sam Altman"
+    },
+    {
+      "title": "Sam Altman ChatGPT AI Predicts Stunning Bitcoin Price By End Of 2026",
+      "summary": "Sam Altman ChatGPT AI Predicts Stunning Bitcoin Price By End Of 2026 Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUpDYjE2QTIyVUVlQnFLTjYxMVZFYktFRFhBSkxPdi1Vem1INFduVm05VjVtaWhENFdiLUpwRHBYYmlRQXQyNWt1MXVfemg0WlIxVTZtbkNRUlNULWZHbjRoSHNuNExFSC1Mb2lPTXF1cnNhUm81bkFIeFh6THd3QzVsd29KWXJVWjl4bXRQelpEQnlidmZJZGJCTjVPUkk?oc=5",
+      "source": "Cryptonews",
+      "timestamp": "2026-06-20T22:43:00+00:00",
+      "search_keyword": "Sam Altman"
+    },
+    {
+      "title": "Trump says he doesn’t see Anthropic as US security threat",
+      "summary": "Trump says he doesn’t see Anthropic as US security threat chinadailyasia.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNSVRoUFUyTGZOR2xMdE1tVkR4S1ExX2pydnoxNWRrZG1rODFzVzRCWVQtLUJoTVhGOVZLa3JnMUlNOUtlci1vTko0c1lIczdBOTdsZFlJWUg?oc=5",
+      "source": "chinadailyasia.com",
+      "timestamp": "2026-06-21T10:17:59+00:00",
+      "search_keyword": "Dario Amodei"
+    },
+    {
+      "title": "Trump tells Axios he no longer views Anthropic as national security threat",
+      "summary": "Trump tells Axios he no longer views Anthropic as national security threat Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzlsZDZoSlNFS3NKdk1pblgwRGRDNzMwNXRmZjJzR1M1SmlBMWU1aWY1cFoxSG5uQkpib1VyZ29mdC1lSWNfdHBTVGxJeXZkc2Y2bUUzUktqd0ZjSEdxTHJMTy1ZWHExQ3dnT1NBMlA2dzJCc0hwSjEzdE83UHA5eTE1anFqeERoM3lQeTIzZ2EwVzIzYzE0Rmtrbm96elZCa01rYTJ2dDh4b3VoWmhNNE9PZklzRE0?oc=5",
+      "source": "Reuters",
+      "timestamp": "2026-06-21T04:11:44+00:00",
+      "search_keyword": "Dario Amodei"
+    },
+    {
+      "title": "Author Argues for Slower AI Despite Cancer Benefits",
+      "summary": "Author Argues for Slower AI Despite Cancer Benefits Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzhOaVBEeVdXUHNfb0ZRcHZwQndiMUVUVTVwUHJGRUVrMnkwdjVBWFZZRTF5ZTkzd3RNNF8yN215d21UaGZqV0FMZkROSFl4c3JYUU96MEhpa0xySzdzeFZTdjRjMlRabFdaelY5MnphV1VRMWR5N190NTBCNHZOUVJESXliZDlEZVNBcHBRbTUzU01SX1NiUw?oc=5",
+      "source": "Let's Data Science",
+      "timestamp": "2026-06-21T12:42:31+00:00",
+      "search_keyword": "Dario Amodei"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei tells G7 leaders to ‘resist the temptation to splinter’ over AI, report",
+      "summary": "Anthropic CEO Dario Amodei tells G7 leaders to ‘resist the temptation to splinter’ over AI, report MSN",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNSWVuRW9vbXFMLU1TaHRCby1XR3Yyb2YxYndPdEh4TVd1UU4wMWtTMlhzakV6MDd3ZGpGM3FaeUZIVEttQjJtUzBXQm1SekF5YkEzemdkTkx0aGkwTldPMUtCZFRKUklqWWw4dTFCbFBfczQwQjlBNm5WWmJxQ2VpdzZYSEw0bTRBa3ZZNndVR0pNS0lRVFRIbnozbHh4MURVT2s1RHpWRHRDZEhRTnJSX1lndnJ1T3Vvc0p0YjJfQ1VWblpadkVkR1B4Nmk3YWdhNlNOdGV1VElkMmZhcm01RXY0MWZJcHdRaUN0a1E0SU16Snd1d1dPT3ZSbUM2YTB5QU8xSG05SktuUGVWbWlmRWJTTWtrVnN2djRKNGdTdw?oc=5",
+      "source": "MSN",
+      "timestamp": "2026-06-21T06:34:38+00:00",
+      "search_keyword": "Dario Amodei"
+    },
+    {
+      "title": "Forget Ads: Alphabet’s CEO Says This Is Now the Biggest Growth Driver",
+      "summary": "Forget Ads: Alphabet’s CEO Says This Is Now the Biggest Growth Driver 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFNIT0tfak9HT0xlQ1QzY25NNjNmbjY3YWZuOFZySThMbmtGQ0FzVnl6ekUtRXBpcG1nZGJkYzZIcENGbkhkMkJoclduUFNIZUVuWUF0MDNiWXJDR1czMDBfWjcwT0NzVWZ0TENEZ3ZXdWxDRzNEMlRGaXJrckZqZEFydHBNLWp5clF2TE1GSHhhWUo0bGtNYmZEZ2dLeGFnbWRJNXFCem9uYloyZU9VVA?oc=5",
+      "source": "24/7 Wall St.",
+      "timestamp": "2026-06-21T11:30:29+00:00",
+      "search_keyword": "Sundar Pichai"
+    },
+    {
+      "title": "Meta Exec Admits Zuckerberg Has Crushed Workers’ Spirits",
+      "summary": "Meta Exec Admits Zuckerberg Has Crushed Workers’ Spirits Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYUwwdnU3eUJjWDBHNUxaNmd6U2Jhc2FscVhCbm1qTDFRLV83elJLcWNzZDJ3dE8tSzVGV3VnR19sYVFJam02VFdqcWdackhOVUpaSXZTZzRkQVhzcGx5SW1SVnd5N0o3cmtHU3dSWHdRVHJRZ2V3Wmk1UUtlb3E3VC1LRjZ5MXhCRWJYTlA5WFRpbEY1VGdBcFBNWC0?oc=5",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-06-21T12:00:00+00:00",
+      "search_keyword": "Mark Zuckerberg"
+    },
+    {
+      "title": "Dana White reveals insane details of Elon Musk vs Mark Zuckerberg UFC fight plan",
+      "summary": "Dana White reveals insane details of Elon Musk vs Mark Zuckerberg UFC fight plan talkSPORT",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVHdzNy1qTjBOS3dZRXB2dFV6Mk82UlY2TEI2U29SeFIwOGJVZ3ZTTGVWYURpeXFkcVpYMmRYY1VjQXBOcWhSbGd0VnY1eXBxV1R0Z1I5d2RhR0xQN2NSUDFBNmFrNmM2RExmTjlnQ3pqVmlpM1dRQWNqZWhtVE51Q3MzaGdDU0ZvTGtqQw?oc=5",
+      "source": "talkSPORT",
+      "timestamp": "2026-06-21T10:05:05+00:00",
+      "search_keyword": "Mark Zuckerberg"
+    },
+    {
+      "title": "Mark Zuckerberg used his young daughter to ingratiate himself to Trump: book",
+      "summary": "Mark Zuckerberg used his young daughter to ingratiate himself to Trump: book The Mercury News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03UmtaQ1l1cURiVUVFcmV6bkdVWWxlVi1wSzVoM1pmZHV1SDJpWlA4Z2FpWVdRM0ZtRUFRTzJITDItWV92d01KODN6YjhUS2ZHM3lMVkpPcm5xV0ZEeVhSSjkxNm9OVkJJZTVvZURuSzItcG5EVDV1VlZ30gF_QVVfeXFMUEQ0WHF2YVJwMnZWQUEzdlhzN0s1NUNORjVUVjdrQ296TWoteTZmZWFvOGJMRU42NGFxUC1HS1daZEEzR2VtcHB5TFFtQWRLREFTSW1yNjU4U2xvMFRJYnRuU0JxTU1sQTUySHZoU0VEX21SX0tpa0R1QUwxRURhYw?oc=5",
+      "source": "The Mercury News",
+      "timestamp": "2026-06-20T18:47:44+00:00",
+      "search_keyword": "Mark Zuckerberg"
+    },
+    {
+      "title": "Dana White: Elon Musk vs. Mark Zuckerberg UFC Fight Was Real",
+      "summary": "Dana White: Elon Musk vs. Mark Zuckerberg UFC Fight Was Real heavy.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGaWdZaFlkYXhrTGZVblRObFVxSzJrR3JRVEZwdGltUTk3TUdaX1BoNGk3d2pPQmpBdm1ycGYtSUtCMzBwM0ZXZmdjTnFmLW0wN09iQ1c5bEtKMXptYkhRZTU5ejJERHdmbTB0V0pwQUM0cHV3?oc=5",
+      "source": "heavy.com",
+      "timestamp": "2026-06-21T05:06:48+00:00",
+      "search_keyword": "Mark Zuckerberg"
+    },
+    {
+      "title": "Meta Exec Admits Zuckerberg Has Crushed Workers’ Spirits",
+      "summary": "Meta Exec Admits Zuckerberg Has Crushed Workers’ Spirits Futurism",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSzRpMlpDNkZwaU1JN3Vsb2xCREhxT2ZWMHlMQjZKOElVOHFMRjJZR1hwdlhwbUFORXMxQUo3ZGFURkh1ckRqYmZfamRuZWJqbjgyektUSmhOZmVJcng4Y3l1cng3NUpXa3hCNW5mZ2FWeXM2VEVtcGp2NVgxN3FtTnUwVkV3eU5KWVNJ?oc=5",
+      "source": "Futurism",
+      "timestamp": "2026-06-21T12:00:00+00:00",
+      "search_keyword": "Mark Zuckerberg"
+    },
+    {
+      "title": "The owner of Facebook, Mark Zuckerberg, opened his wallet and paid the equivalent of R$ 72.9 billion, or US$ 14.3 billion, to hire a 28-year-old and put him in charge of Meta's new superintelligence.",
+      "summary": "The owner of Facebook, Mark Zuckerberg, opened his wallet and paid the equivalent of R$ 72.9 billion, or US$ 14.3 billion, to hire a 28-year-old and put him in charge of Meta's new superintelligence. CPG Click Petróleo e Gás",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMTUtN2JjcXFrOFJOZ2tPcms3VTZZbEZlc01JbExGbXVfdHJ0STByZm9KQVhjVldzaFVHcDcycldTOXpMSTctYlk1V0tnRXk4QVh6QnE1dkRjOTBEQXBUeWVTemhHNktZZ3NpVG5hSUluMll4U2hKYXlrTHYyLThZSjllWXJZTFZYdXJCeWtiRlotUThFOWpZWVlRMWpDTW9VUFkwdXU3VkthOFhWLWhla2VWMHBYZUh2RFpYZ2JVQlZKZmJQMUNXUlZidmdlbE4wX0hjRmxTV3FFUDhXMWZPQUtzUGRSNURvTHczdE9GRjE1SmlRTmJTcGg1SVVNQ1NITWxwM09IRE1Sb0JLOU1PYQ?oc=5",
+      "source": "CPG Click Petróleo e Gás",
+      "timestamp": "2026-06-20T17:23:00+00:00",
+      "search_keyword": "Mark Zuckerberg"
+    },
+    {
+      "title": "‘I thought it was AI’: Hwasa reacts to Nvidia CEO Jensen Huang’s unexpected fan confession",
+      "summary": "‘I thought it was AI’: Hwasa reacts to Nvidia CEO Jensen Huang’s unexpected fan confession Malay Mail",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbHM3aC1TckgyQndzdEllMlpDSmRHNFFTLXFyR3FtUlFqdUV6VHR3b3NpcGRHQkpOUWtBcF85enVLVDE3blpiV0JTSzdxc0RSbWxWaG5oLTdEel9CamYwYkZqTXVHR0t1b3A2MU03Q29PWkpOMnFvYUhsaXdNNnVZbVJzbFpWTjlDcU1NMFBZbndUQ1lTS3JhZnZkeldadVpfZDRxUDJkMXVVMmVBcWlaMzRzX3hYdG1Jb2hYZ3dVVHhjZEl4RzNtQlY4TjJqZlRPTEU1UXFCZGJfQ0HSAeABQVVfeXFMUEFKX3B2WVhvbzdXWFNLaHBRdFQ4LVRlMTRqTXZYSnZNSEI1THZBb3lNUXphbkpJVzY2YUtNZUJTN1VuSDYxVndZZ292ZzhTZ1VVTlJLUEdyYWl6OFp6TjJKbjdxU3otOWRwTS1ydE03a3ZOclBSVnRwM0FnTmxTeHE0VzFDUWFMOFQ4T043RUJONGRZY1U2R282T0pnbFh6aTZMMVdrX0hTMTdEZFRraVlBdzBfN1ZXbks5Nlk2WnNKb1h5MTQ1a29IQzNpeERkU1lONUVlUXZPZ3RIYWI0cG0?oc=5",
+      "source": "Malay Mail",
+      "timestamp": "2026-06-21T00:17:06+00:00",
+      "search_keyword": "Jensen Huang"
+    },
+    {
+      "title": "Marvell’s Israeli CTO: ‘The AI market has reached the bottleneck we solve’",
+      "summary": "Marvell’s Israeli CTO: ‘The AI market has reached the bottleneck we solve’ Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZaENJcFdVSzRrMWxNZnVsVXI4U1B5aU1vaEhndlpSbU41bzlBNWI3WFFJQ2VncWd3SFRabDJsSHB6Y21oLWRCclZlSkJ1RDB1VHRhSXBjOUhZdmpyYjYyV0ZR?oc=5",
+      "source": "Ynetnews",
+      "timestamp": "2026-06-21T09:26:39+00:00",
+      "search_keyword": "Jensen Huang"
+    },
+    {
+      "title": "Marvell CTO: \"The market has finally reached the bottleneck we solve\"",
+      "summary": "Marvell CTO: \"The market has finally reached the bottleneck we solve\" CTech",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDcm5IdGZ6RS0zRWw3RkNQT2VpeF9ITjNnbXVOMmw2VURQMk5WQ0FQNGNPandxaEg3Wl9hMEVVSzJDR3p6OHF1bXFPTmFPbDhQQjBKOGlNcFAyZExPUXNLLTRnNS04Sjg?oc=5",
+      "source": "CTech",
+      "timestamp": "2026-06-21T08:14:00+00:00",
+      "search_keyword": "Jensen Huang"
+    },
+    {
+      "title": "LG executives to meet Nvidia officials in US for AI, robotics talks",
+      "summary": "LG executives to meet Nvidia officials in US for AI, robotics talks The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJNVN0NFMtUXV1eWUzSVZnZEt5bnJpNkdtbXVWaGVFdk9CYTE1dGRSOVhRQ2d0LTZrbjgxYXRXand6MnNjTXVDTVNlRnhUWVFXUGRRMTJsZw?oc=5",
+      "source": "The Korea Herald",
+      "timestamp": "2026-06-21T10:44:10+00:00",
+      "search_keyword": "Jensen Huang"
+    },
+    {
+      "title": "NVIDIA’s CEO Says the Jobs Doomsayers Have It Backwards. Here’s Why",
+      "summary": "NVIDIA’s CEO Says the Jobs Doomsayers Have It Backwards. Here’s Why Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTnlONmJzeXFQSFJpTEZibDZfbWt3NXF1ZERfdEJ6OXhSczhrSnVIRHVvZWtaQlFBZ0E2OWROcVlBMVhOaDdMRWE3MWtjLTY3RXFLSUllT2RocUFCSWp5bnMyWEdJSEpJMVlXVUNoWGxsQ1NWR1lJdzJWT1ZiU1VnUDJHbHNkVWtqMERXajZoaS1XUEtpUW1qdFpNUQ?oc=5",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-06-21T12:00:36+00:00",
+      "search_keyword": "Jensen Huang"
+    },
+    {
+      "title": "蔡磊真人出镜，用AI复原声音发布《倒计时》演讲",
+      "summary": "蔡磊真人出镜，用AI复原声音发布《倒计时》演讲 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDQ0dMUEF2Z0JjWFhGbXBaTklqcGUyejQ4RzRxalVQVmIwWVdmNWJGTWpKWlRZSE5iaHBoX3NpQS15M2lDLUQySWFzWC1WWC00ZHBQT3V5WEJMaTVKdVlPdEZvRF8?oc=5",
+      "source": "新京报",
+      "timestamp": "2026-06-21T14:00:00+00:00",
+      "search_keyword": "AI AND 发布"
+    },
+    {
+      "title": "曹操出行宣布全面AI转型：发布RoboX战略，打造全球领先的物理AI移动科技平台",
+      "summary": "曹操出行宣布全面AI转型：发布RoboX战略，打造全球领先的物理AI移动科技平台 中国基金报",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90b1BSRWZXVnlMU01TUGtGUUFtLTNYRXBzYVloM0hSQUU0Ymttdl9CeGt1YTRPVEpua0J1N2JBQ2VER1daT1g1WGt1Z09wRzAtZGNrWVJ0em1UUmdRUUp1R1poNUJyWUZ1a2VyUDM2dnNJbWJfd2FJT2p3?oc=5",
+      "source": "中国基金报",
+      "timestamp": "2026-06-21T00:59:00+00:00",
+      "search_keyword": "AI AND 发布"
+    },
+    {
+      "title": "真相来了|广西玉林AI生成虚假警察视频引流发布者被处罚",
+      "summary": "真相来了|广西玉林AI生成虚假警察视频引流发布者被处罚 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82VkZUTWt1QS1BRXF3U212d1RkZkNMdHhJaGlkc0lPYzhpZWUyT3Bid29IcS1oZk15TjVQTGF1Qm5oTVJxZnhxS05jblJyTkNVbXR1cVJibEdZYU1zYXVlOGpvbV9tTVFPTUhTNTlKRWRmUkt2cXc?oc=5",
+      "source": "新浪财经",
+      "timestamp": "2026-06-21T14:16:00+00:00",
+      "search_keyword": "AI AND 发布"
+    },
+    {
+      "title": "蔡磊真人出镜、用AI复原声音发布《倒计时》演讲，如果那天到来，“把意识传送到具身智能机器人里，继续战斗”",
+      "summary": "蔡磊真人出镜、用AI复原声音发布《倒计时》演讲，如果那天到来，“把意识传送到具身智能机器人里，继续战斗” 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93ZUs0WkNjWHZUWG8xMVVjU2JWUFEwRlV3Q01QaXZsT1QxbmZLTU8tUjlZYlZ6S1ZyYXI3YlFlaXo0c0JwaU5nWXphNHdZZThacVdETkVtbjJRNG5rUHVYLTBvSkZXd0ZycThEV1RYekFMOGxEQXc?oc=5",
+      "source": "新浪财经",
+      "timestamp": "2026-06-21T11:30:00+00:00",
+      "search_keyword": "AI AND 发布"
+    },
+    {
+      "title": "蔡磊发布《倒计时》演讲：真人出镜，用AI技术复原声音，对渐冻症发出“决战宣言”",
+      "summary": "蔡磊发布《倒计时》演讲：真人出镜，用AI技术复原声音，对渐冻症发出“决战宣言” 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGeUZQYW1xUXFXMmpWV0I1dHBES1k3Z0E2Y014YXZ0UUVtanAtaWNrYWx5YnRlRkVqakpzV3V3clJvWXlhaE9zVkNXM2xfYWVXSG13cGp3TXYwQ0lGN3FZWTRMdVFQSVN1Z1NOZXIySVRQdW5Dd1E?oc=5",
+      "source": "新浪财经",
+      "timestamp": "2026-06-21T13:35:00+00:00",
+      "search_keyword": "AI AND 发布"
+    },
+    {
+      "title": "渐冻症终末期，蔡磊靠眼控AI发布演讲：倒计时指向攻克病魔",
+      "summary": "渐冻症终末期，蔡磊靠眼控AI发布演讲：倒计时指向攻克病魔 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUDQ2d3Q4eDN5Y0tuSEhhbkZ1MjJhV3BXblUxUENEUDZsejN2eFJwb1dxVjJKT19nV1VSLXFfenBNd2xFbEtxU2dEcmZlMlk5dFlfWk5RUDFNU2JCczlEZlBYUjZsQ1k5cTRBWHQxanVMa0ZDYzNpWnVtamJ4MTFPNkwwdw?oc=5",
+      "source": "新浪网",
+      "timestamp": "2026-06-21T08:10:56+00:00",
+      "search_keyword": "AI AND 发布"
+    },
+    {
+      "title": "蔡磊真人出镜，用AI复原声音发布《倒计时》演讲|世界渐冻人日|AI技术|硬核|菜籽|渐冻症_手机新浪网",
+      "summary": "蔡磊真人出镜，用AI复原声音发布《倒计时》演讲|世界渐冻人日|AI技术|硬核|菜籽|渐冻症_手机新浪网 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQczd6Tmp3eVVlSV92RFZVQjczYms1X1Y5em1pN3pIcHp2OEtyWWJfMk1IUjFZeEpDa2Q0R0kzdW92MDVSSmdSTDBseHRyS0cxLXA2WE94NTQ0Rk1zWjB4dV9GMlNXVk9feGhrMWZUby1YanZvalMtLVN4LVZwZEV4YVpTallYMWpCN0NhaXIyYm95eHV5YkZ1aE83NTdXRDZwaHJQMnZnWQ?oc=5",
+      "source": "新浪财经",
+      "timestamp": "2026-06-21T05:29:16+00:00",
+      "search_keyword": "AI AND 发布"
+    },
+    {
+      "title": "全身仅剩眼球能动！蔡磊真人出镜发布《倒计时》演讲 用AI复原声音",
+      "summary": "全身仅剩眼球能动！蔡磊真人出镜发布《倒计时》演讲 用AI复原声音 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvMkdmT1hXRldFZjRNX3ZMRERIdGQtd21oYTI4NVI1VW5URnFNbnMtby1RYnZVQnRwN2NOQzRzbGpsR3FXVzFBSWM4Z2Y4Njg4ZzM1dTRxbXVxMXYwQWZmUlR5dEtJN0JXWlZuZ0RaUEItV2RNSkhVZkgxTm9Sbm8?oc=5",
+      "source": "新浪财经",
+      "timestamp": "2026-06-21T07:10:00+00:00",
+      "search_keyword": "AI AND 发布"
+    },
+    {
+      "title": "OpenAI发布个人AGI愿景：让先进AI走向个人",
+      "summary": "OpenAI发布个人AGI愿景：让先进AI走向个人 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNOHd1MGVKUm55YzZYYVFIcjM5a051WjVvMXozUjRwUndjZUx4YWZyeFVBQS1EeXRjQ29NU0FuOG9YeExzNjZXTGRNMFRkZ3NDaXU0RXdYckZqWE5ZSl9kZHJyVW9lVkxiNzJWMGY4d19HZ3ZYaEVDaGlaNFplaUYycHhpa3ZSSmJ0Qy1XWWozN09vOUU2MUtFVEFTRlpEX2J5bUVYbkVtZkVLd2QzeUxXck03TUNpMUo5VXNfaWMwWGVITUwzRlBjRzc4SndnVmdsbnZuQ1FrR2hZR0Zlby1TOUJVd19TVFBKV0R5S2l1VzRLanBHRVhGUWUyU1VBR2szTUdmcExSSlh3ektCbEhvNldTc2FNYzA0WlBYZkx3dVlTS1Z3RmY4Nnl6MTNrQ1pMWUE?oc=5",
+      "source": "手机新浪网",
+      "timestamp": "2026-06-21T05:03:04+00:00",
+      "search_keyword": "AI AND 发布"
+    },
+    {
+      "title": "苹果相册的AI命名功能是否会泄露用户隐私？",
+      "summary": "苹果相册的AI命名功能是否会泄露用户隐私？ 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjdjZicktjd1hsN1hNU0RKOWVwYWdhZ3l3ZUZ2VlZWamN0ajBjSk5lMGhCeno3d3Jha2hiZHNSMkYtQWVjWUxRM1VhaUdkRVlTUmRhbXZreG11UkR2aEFfaUpBRElJNjdpay1VUGRHQmJaemRfTThEbVBmaEhidw?oc=5",
+      "source": "新浪财经",
+      "timestamp": "2026-06-20T19:32:08+00:00",
+      "search_keyword": "AI AND 泄露"
+    },
+    {
+      "title": "年入130亿，给微软交172亿：OpenAI泄露账本里的AI烧钱真相",
+      "summary": "年入130亿，给微软交172亿：OpenAI泄露账本里的AI烧钱真相 PANews",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQQ1NEUG5XRFhzaU13R1NjamtrUE9leTVScHQ3N0dnUmxMZDJPR25kd183R1hjRzc0R0VVQUNiMnVIM3VvZGZNcHFKcmZCOU1RT01QZVNCcFBkMDM3MWVzYWtTbTJPMl95OVUzSDZPUzE0amF6a3pkQkh3WW14LWs?oc=5",
+      "source": "PANews",
+      "timestamp": "2026-06-21T01:03:00+00:00",
+      "search_keyword": "AI AND 泄露"
+    },
+    {
+      "title": "GPT-5.6或将下周问世：从“模型”迈向“可执行Agent”，定价或仅为竞品1/3",
+      "summary": "GPT-5.6或将下周问世：从“模型”迈向“可执行Agent”，定价或仅为竞品1/3 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LZnJFMmxIRlZ0WFg1ZWRELWlmTnpjb1NUeUtNYTk4NTgyYjQyeEh1V08tNFBEUGpWQXVWbUE2bEZNeTdnaURCbVhMRHJWTWVUQnRV?oc=5",
+      "source": "华尔街见闻",
+      "timestamp": "2026-06-21T04:07:00+00:00",
+      "search_keyword": "GPT AND 新模型"
+    },
+    {
+      "title": "项目 Fetch 第二阶段：Claude Opus 4.7 完成任务速度比人类团队快 20 倍！",
+      "summary": "项目 Fetch 第二阶段：Claude Opus 4.7 完成任务速度比人类团队快 20 倍！ blog.csdn.net",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TTWlFQkVsbUQzamZtbGNnSXVKdTNUUU9KcklQdktIQ3l2c3padWRrZk1RZzBoUUpUbVhHTlNDYkpWWTJCaVpXWWtmUDlJMWEyd0xGWWVwbEZHUUdiQzVWZFJIMlhUdXNwV1Nj?oc=5",
+      "source": "blog.csdn.net",
+      "timestamp": "2026-06-21T00:38:25+00:00",
+      "search_keyword": "Claude AND 模型"
+    },
+    {
+      "title": "早报｜追觅组织调整，取消未落地业务/DeepSeek识图模式上线/《GTA6》预购时间官宣",
+      "summary": "早报｜追觅组织调整，取消未落地业务/DeepSeek识图模式上线/《GTA6》预购时间官宣 爱范儿",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBHWEc3dGh2OC1tNzBaV0ZTMzFSbFVKd0QzVkwtRHhXWDAwaTVNWjlkQ3BEWW1QVjBuNTVwWXYxbFZYNE0?oc=5",
+      "source": "爱范儿",
+      "timestamp": "2026-06-21T01:34:36+00:00",
+      "search_keyword": "DeepSeek"
+    },
+    {
+      "title": "微软也烧不起 Token ，该 DeepSeek 上位了",
+      "summary": "微软也烧不起 Token ，该 DeepSeek 上位了 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCeXhJUzJYRjc5a1p4U0FOeDBubTA2cHN1bTVVSm50cmgzRjc1ZFBIbG15NEw2OE91WlB6NjFSbS00eHdYU0ZPRVJ3Y2FqSHhW?oc=5",
+      "source": "36 Kr",
+      "timestamp": "2026-06-21T09:45:00+00:00",
+      "search_keyword": "DeepSeek"
+    },
+    {
+      "title": "Deepseek完成A轮融资，腾讯领投阿里出局，梁文锋自掏200亿！",
+      "summary": "Deepseek完成A轮融资，腾讯领投阿里出局，梁文锋自掏200亿！ 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WcXJ0VV92aDlFa3BLbl9qZWxGMjVvQ0lXLVM2TkljQkNiMVRBcU5PVzQwSFU0U0MxWXM2VFFEZE11RGFsSEpJSnJMVkJEZVBIQllEWA?oc=5",
+      "source": "手机网易网",
+      "timestamp": "2026-06-21T05:00:00+00:00",
+      "search_keyword": "DeepSeek"
+    },
+    {
+      "title": "DeepSeek永久降价，第一个赢家已经浮出水面",
+      "summary": "DeepSeek永久降价，第一个赢家已经浮出水面 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9peWxReF92bjNyREVtZDRzbnd0NFR2eWZzS2xvX1FEUklPQ3ZpX0k1QmtzX1ZDcTRiNkRNLWZ6c1pHZ2VTWGRZMnlOWnJRdw?oc=5",
+      "source": "36 Kr",
+      "timestamp": "2026-06-21T00:11:47+00:00",
+      "search_keyword": "DeepSeek"
+    },
+    {
+      "title": "【数智周报】DeepSeek敲定首轮超510亿元外部融资；SpaceX换股收购AI编程独角兽Cursor；美国叫停Anthropic最强模型Fable 5和Mythos 5",
+      "summary": "【数智周报】DeepSeek敲定首轮超510亿元外部融资；SpaceX换股收购AI编程独角兽Cursor；美国叫停Anthropic最强模型Fable 5和Mythos 5 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQXBTRU1Tdm1neHZXb1BxMUl4Mm9aeW94WFY1YlI1SWFKb0VtSl9kSlZkb1RrRFNOZmFGcXNUVnpjUUJnbkxHUVJqaEowQk9idXpYUl9rUndHN0Q2dUJTaDIzTERMOVFidkJLUWo3UFFtWVQ2bnpTTmFnb2N6MkxrR0tGeENYdldt?oc=5",
+      "source": "搜狐网",
+      "timestamp": "2026-06-21T10:11:34+00:00",
+      "search_keyword": "DeepSeek"
+    },
+    {
+      "title": "2026年AI 搜索 GEO 优化行业解析：豆包 / DeepSeek 双平台适配落地体系—— 追马网制造业ToB技术实践落地解析",
+      "summary": "2026年AI 搜索 GEO 优化行业解析：豆包 / DeepSeek 双平台适配落地体系—— 追马网制造业ToB技术实践落地解析 tech.china.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5la2FrV2ljamd2OE9IYmlrbG1mdGdxTzF6VnZUandBcWJCZ2h3R1lXSF9aaHRFcUlFSWJQUlgyRXlNeDhIX0lCVUo1OExfOEdqX1V3M29PekhlZXd0Z3BsQUJ1R3NxdC1TOXFBRmtR?oc=5",
+      "source": "tech.china.com",
+      "timestamp": "2026-06-21T09:36:28+00:00",
+      "search_keyword": "DeepSeek"
+    },
+    {
+      "title": "#军事# DeepSeek的500亿反融资 融的不是钱",
+      "summary": "#军事# DeepSeek的500亿反融资 融的不是钱 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbktEd19Qd3pqcU5xaGI0eWNTbmlVcE5rZ0ZPanNFWUxObVlVaElFd1MwaWt4UE4yOGd3a3AtRnZYaHhsSHNwalRUanU4LXpMeXhHbFZyazFkbGV0X2VUbHBxNWR5Y0g2TFI0MVZVV05RY3VCemZmQ2RoY2d6RXlWaGVzN0tLQkw1R1lyNw?oc=5",
+      "source": "搜狐网",
+      "timestamp": "2026-06-21T08:23:45+00:00",
+      "search_keyword": "DeepSeek"
+    },
+    {
+      "title": "OpenAI「最开放」一次，Codex不再独宠GPT",
+      "summary": "OpenAI「最开放」一次，Codex不再独宠GPT 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtVGlpSF9WQ1FYZjRKZkhJYXBGRTFtVkNTNzlaWFdwQVQ5R1BsaHVoWEJyY0llWUc4U3pBQU1BVE93YXY3M0YwTWxtQQ?oc=5",
+      "source": "36 Kr",
+      "timestamp": "2026-06-21T09:14:00+00:00",
+      "search_keyword": "DeepSeek"
+    },
+    {
+      "title": "大模型越训越自信，却越采不到新解？LED给LRM找回探索上限",
+      "summary": "大模型越训越自信，却越采不到新解？LED给LRM找回探索上限 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGdtZ3o5OHBlUF9ZbUFCQ1hlckZ2RG1kdWVmbFlvbko5OEF4dl9NVElTV3NjQlRZT1RwajZ2Q08xaUpLei0td3hOb2x1cTJRQzhHUkFmYmY3OUpDNXhsQlI3aW5TRGRuQjA3WWdoWllLSjBIbVRKaTVld010ZHUybTJYTE43cjg2bV9uSkdBWVdLN1kta296cUpTdU9XcEdqaW5FdTVrLTkxT1FkbEtPdkJB?oc=5",
+      "source": "新浪财经",
+      "timestamp": "2026-06-21T11:53:50+00:00",
+      "search_keyword": "DeepSeek"
+    },
+    {
+      "title": "阿里要是把通义大模型拿出来单独上市，市值绝对超过智谱。从deepseek融资情况看",
+      "summary": "阿里要是把通义大模型拿出来单独上市，市值绝对超过智谱。从deepseek融资情况看 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QTVhxQ2hTY3VicXo4ejByZzlQVWtFYXhSTXIxY2xjTGZLekVyVzQ2T3p5TG5PT0NnR1puNmV6Nm54TmY5X0VubW5INzVIcEc1WnIzQnJyS2c1Q21kUm00aFQ5NA?oc=5",
+      "source": "手机新浪网",
+      "timestamp": "2026-06-20T16:55:00+00:00",
+      "search_keyword": "DeepSeek"
+    },
+    {
+      "title": "努比亚ALL IN豆包AI手机，传统手机业务说停就停",
+      "summary": "努比亚ALL IN豆包AI手机，传统手机业务说停就停 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IN2J1cTItVEkzcGZoejlOX0V0YUt6elo0cEpIWEp5RlJkeThzOTE1WGo0eGV5YTdEMUoya0s4RWRjd1h6bFA5Tk9Za1pmWUJMaFV3blIybUhvR3RwUWFibGZqajhvcEU1ZEZSQkdpWEE?oc=5",
+      "source": "新浪财经",
+      "timestamp": "2026-06-21T12:31:25+00:00",
+      "search_keyword": "豆包 AND AI"
+    },
+    {
+      "title": "豆包的首次618大考",
+      "summary": "豆包的首次618大考 投资界",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JNGhvYlZHcnR6TnpnaHVDZ1ZjNmhUSVpybzUydFBJVnJISUFoazJjbkgzZ1Fadm9VM00zajV6SG4xZHNtai1yRjh4VzhzWUNDbFo0MVBR?oc=5",
+      "source": "投资界",
+      "timestamp": "2026-06-21T07:54:00+00:00",
+      "search_keyword": "豆包 AND AI"
+    },
+    {
+      "title": "豆包二代AI手机归来！字节+努比亚深度联手，AI手机才是国产机的唯一出路？",
+      "summary": "豆包二代AI手机归来！字节+努比亚深度联手，AI手机才是国产机的唯一出路？ 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1YxdmNUb2FNbFJnaTVPSnJOaC1Ca3k1dVNTZXB1ZXhRbjh3T2xnelJmeFNLaVROTlVPQ3dnS1hrbWpFTWMxZDItSVVuT2RSLVkzaS13X0Z0YVItOERoVUV3OE84WFVNYWNjb0RMUjBtdW1jTlZIMEZWUDRKX1ZBRFZ1eFYtUEthQWlVZQ?oc=5",
+      "source": "搜狐网",
+      "timestamp": "2026-06-21T11:13:46+00:00",
+      "search_keyword": "豆包 AND AI"
+    },
+    {
+      "title": "豆包收费，能赚多少钱？",
+      "summary": "豆包收费，能赚多少钱？ 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZQy1HdUNXNGlPTDJmWGdkTjRJRFBWek1MRm1sUXVUY3ZyWUxEbWsyczNqOHBoQ3Z6endyVGtSTXdWazI4UXJrWDJHQzhxejZM?oc=5",
+      "source": "36 Kr",
+      "timestamp": "2026-06-21T09:51:00+00:00",
+      "search_keyword": "豆包 AND AI"
+    },
+    {
+      "title": "努比亚集中资源推第二代豆包AI手机，传统业务收缩",
+      "summary": "努比亚集中资源推第二代豆包AI手机，传统业务收缩 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41MTFzWnVKcUZKRVNtN3NFOTVFcEtXNXlBZl9TV2djRmJOT0Q3MTJDRlVHTmhoSG9NMUJIM1pjQ0M0b0VSY2I1dVFfMlVrQkNEX3pxMnN5RVlneUZUNThJazNJaWktY29LOWtsSVdsTmdsWnE5YnZReG5mQnFUZw?oc=5",
+      "source": "新浪网",
+      "timestamp": "2026-06-21T07:09:47+00:00",
+      "search_keyword": "豆包 AND AI"
+    },
+    {
+      "title": "阿里要做千问输入法App，语音输入成了新风口",
+      "summary": "阿里要做千问输入法App，语音输入成了新风口 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzlITFNJT09FRGtzU0VkbjcyMElIY0d5TWQzb1dxQlZ5WmZJeUlhZFFBQkE4WmljY3F0ZGNpQ1A4a1k2d0lrRHRDc1dsNWNzbV9fdnc0bm9FdjN3TGlVNTUxMXQ3bnR5Ql9YQ19MOE9ZWlJwTFpGSGgtQkp1Rnk4SnhLczZLQ2J3?oc=5",
+      "source": "搜狐网",
+      "timestamp": "2026-06-21T09:16:51+00:00",
+      "search_keyword": "千问"
+    },
+    {
+      "title": "阿里入局独立AI输入法赛道 千问输入法APP开发完毕即将上线",
+      "summary": "阿里入局独立AI输入法赛道 千问输入法APP开发完毕即将上线 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUZxaENsTzc3aENvUHF4amthUkt6OXp5bTNRVkJDX3U5UmlIeHpnQ2xoVTQzaVlob0M5T0F3STlzdUVnR3VnTk1YdUEzdlpiRTVZbjlxaGVtcWRfYjBNdWE4MU1rc01GSDdHVnBQUzRrOHVpX3QtcnM4azNZVXUzZjhIYkNfMW5O?oc=5",
+      "source": "搜狐网",
+      "timestamp": "2026-06-20T16:14:00+00:00",
+      "search_keyword": "千问"
+    },
+    {
+      "title": "港股智谱盘中总市值突破1万亿港元 年内涨超1900%",
+      "summary": "港股智谱盘中总市值突破1万亿港元 年内涨超1900% 东方财富 智谱盘中狂飙超40%，市值破万亿港元，年内已涨超20倍 新浪财经 中国AI里程碑！智谱GLM 5.2模型智能指数冲入全球前三 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WV2d6VlA0RUdENWhpNjZpRlBrTzY4cVhhRE9uek1ZWU1mY2VjR3dNQjBDU3NtRGlTRDJiZ28zMEtrNE1CODVWME1Kd0UteS12akFpN0xrUk5sSVBDM1Q5ag?oc=5",
+      "source": "东方财富",
+      "timestamp": "2026-06-21T01:41:29+00:00",
+      "search_keyword": "智谱"
+    },
+    {
+      "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
+      "summary": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DQlJLVTRwVzJZM1pWT1ljQm1zeXRtbVNzU0pfWWNuZy05SERCSTA5R0I0eDFoeUh0ZnlqYTI1VkMzTGlDTm5sUA?oc=5",
+      "source": "财联社",
+      "timestamp": "2026-06-21T05:36:35+00:00",
+      "search_keyword": "智谱"
+    },
+    {
+      "title": "里昂：智谱首予“持有”评级 目标价1500港元",
+      "summary": "里昂：智谱首予“持有”评级 目标价1500港元 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ3E1TURyN3A0aE1xUDRpeXRpRE9STlBsQUFQUXFVNkZVa1pjUEI5MENKRlVOaTRDOWNMSy1mcFA4aGVHSWE2M3BOc3NNcFVZR3cxWjJnOTd6TXhfNVdhb1kyY0MtWHQ1RHVlMGF3a0hxSkM4dldxNklNYXFFa2VVT3lFck85aHRJN0E?oc=5",
+      "source": "新浪财经",
+      "timestamp": "2026-06-21T06:45:58+00:00",
+      "search_keyword": "智谱"
+    },
+    {
+      "title": "为什么所有人都觉得 MiniMax、智谱「太贵了」？",
+      "summary": "为什么所有人都觉得 MiniMax、智谱「太贵了」？ 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Ba25JTXlSaVhJdUExdzRnVXk5NWdaR3ZTMmlvLVM0RVl1dHhCbUFDZ1EtSWxxV24yUGpCNElZb3Bhb3ByaUNtdlYydjU0UQ?oc=5",
+      "source": "36 Kr",
+      "timestamp": "2026-06-20T22:07:26+00:00",
+      "search_keyword": "智谱"
+    },
+    {
+      "title": "中国AI里程碑！智谱GLM 5.2模型智能指数冲入全球前三",
+      "summary": "中国AI里程碑！智谱GLM 5.2模型智能指数冲入全球前三 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSmJZQnlYQUdnX080TjRzMEVlbHJ1S1pDLTZFTXgwOGQwLTU2eGV4cGZtbldXc3BmbmZhSHJWZGg3V3B4c2k2X2JfeGg5WDVaalRSWG1hNTVMVGFMUFE0a3JkNW83ZjZqOS1za201ZEU3V2Yzdm1PeDMxTHc0WFU4RXJTN0ZKZw?oc=5",
+      "source": "新浪财经",
+      "timestamp": "2026-06-21T09:24:00+00:00",
+      "search_keyword": "智谱"
+    },
+    {
+      "title": "富瑞：智谱GLM 5.2排名全球第三成中国AI里程碑",
+      "summary": "富瑞：智谱GLM 5.2排名全球第三成中国AI里程碑 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPTWpMR0NUWGxWY1JlbmMybTlTRlpadXp5ZC1pdWRFUXlpY0hEY3h0Rnp4dmRaRVVoMExmREItdThjX0lEQ0RnS0xUN1diZHBhOXNFOGx4N1E2WTJoYjZtUHIzRWliZXJueFBLRWh2RGxGa1hxeUd6WnlBb1BDQ0NaX2EzTl9GbkJCczhqOWJWMEhITllVaEJFLThmSXpFcnB0cWFrQWlvdzFybXF2ajhJWXRDaEZjZTk5NjBOWTE1aXNCVk1scm5TRVNLeE9QVlVxN1JYc3plNVpYREVQMWh5Z1M0VTU3RW5MOVp0WXczbktYTjRtd3JzbklEam1faVI4MU9uMllpVkhuSWpBMGtILUkzRmwxZThDWWVodWc2S0NXSE1JRnl5aDZR?oc=5",
+      "source": "新浪财经",
+      "timestamp": "2026-06-21T06:48:03+00:00",
+      "search_keyword": "智谱"
+    },
+    {
+      "title": "早报丨美伊谈判开局不利，油价反弹超2%；德银“向沃什投降”：今年将加息50基点；智谱AI发布GLM-5.2，CEO对前沿模型研发乐观",
+      "summary": "早报丨美伊谈判开局不利，油价反弹超2%；德银“向沃什投降”：今年将加息50基点；智谱AI发布GLM-5.2，CEO对前沿模型研发乐观 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TcjJKZThkRkF5M0tndGR6NU5YQ1l0RUV0bXBGMEpDdmc3Q0dROGN2M2x0Q1lBSElzOVNJZWpOUjRpNVdacDE4U1Z1XzBaUmtEZXZ5bXlDX0xTRlJlcFE0N2dxMldjQQ?oc=5",
+      "source": "东方财富",
+      "timestamp": "2026-06-21T00:43:51+00:00",
+      "search_keyword": "智谱"
+    },
+    {
+      "title": "富瑞：智谱GLM 5.2排名全球第三成中国AI里程碑",
+      "summary": "富瑞：智谱GLM 5.2排名全球第三成中国AI里程碑 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWVBnRFdWTkN5Smg0QXNCa1p6VmtTSW43TXB1VmhPSDE5c3pFbHJuZlVPRGlQZW14Mkk5MlpzQ0hocWlpYks3SFdBUHEyZ1M0azlmTzF2TXJvMkxwLVBDM1RaTlBhT09PTXZJSE16UldQa0wyektpOFJDNmJ2M2RISHZmZWdyTFhXVmhEVTF5TTREXzd2SjAyWGwwQVBDOFUwLTdrNFY4eUd0MU1hYU1OdmM0N1NVME5ZQ2t5bUJSaGZsbFBzSE1vZ0hVam84RGJua2hyVnRHLVBiYTRfS1RsRFByYw?oc=5",
+      "source": "新浪财经",
+      "timestamp": "2026-06-21T06:39:00+00:00",
+      "search_keyword": "智谱"
+    },
+    {
+      "title": "“豆包”上车！赛豆科技AIVA品牌发布：首款量产车年内亮相",
+      "summary": "“豆包”上车！赛豆科技AIVA品牌发布：首款量产车年内亮相 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54eFZ5VzFvZDRIbG9DMTJaaXNUSlhQN2ZiMHdjUE14MDVpdFJKRXJiZjQ1a2FPWjVmSFlJSXZLcWNXTUc2dHVJbGZPOU9IYkJIQ1JiUTFZOFA1UlF0bUNva0FsOUM4TVFYbVBVR2NHYU5LUQ?oc=5",
+      "source": "新浪网",
+      "timestamp": "2026-06-20T23:06:39+00:00",
+      "search_keyword": "豆包 AND 发布"
+    },
+    {
+      "title": "同属Oracle：OpenJDK与GraalVM对AI代码贡献态度呈相反态势",
+      "summary": "同属Oracle：OpenJDK与GraalVM对AI代码贡献态度呈相反态势 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GcDBfQm16SGl0bndMWUgzLUxlTXp0YkkwdHNIc0lpalVoelF1bVFiNV9fS092cDduTFpWa2haTml5bno3czdwc0NtMXFKdlFtdnlZ?oc=5",
+      "source": "36 Kr",
+      "timestamp": "2026-06-21T12:53:00+00:00",
+      "search_keyword": "ai AND 政策"
+    }
+  ]
+}

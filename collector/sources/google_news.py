@@ -120,6 +120,7 @@ def fetch_google_news(target_date_str=None):
                     "summary": summary,
                     "url": link,
                     "source": source_name,
+                    "source_type": "google_news",
                     "timestamp": timestamp,
                     "search_keyword": keyword,
                 })

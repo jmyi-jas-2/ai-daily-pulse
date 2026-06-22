@@ -5,6 +5,7 @@ Deduplicates, classifies, scores, and outputs final structured JSON.
 
 import html
 import json
+import math
 import re
 import sys
 import hashlib
@@ -76,6 +77,84 @@ TOPIC_BUCKETS = {
     "regulation": ["ban", "order", "regulation", "policy", "监管", "禁令", "合规", "立法", "下线"],
     "incident": ["outage", "downtime", "incident", "degraded", "故障", "降级", "宕机", "泄露", "中断"],
     "partnership": ["partnership", "partner", "collaboration", "合作", "协同", "战略合作"],
+}
+
+OFFICIAL_RSS_SOURCES = {
+    "OpenAI Blog",
+    "Anthropic Blog",
+    "Google DeepMind Blog",
+    "Meta AI Blog",
+    "Mistral Blog",
+    "DeepSeek Blog",
+}
+
+HIGH_QUALITY_RSS_SOURCES = {
+    "TechCrunch AI",
+    "The Verge AI",
+    "Ars Technica",
+    "36Kr",
+    "机器之心",
+}
+
+REPUTABLE_NEWS_SOURCES = {
+    "Reuters",
+    "Bloomberg",
+    "The Information",
+    "Financial Times",
+    "Wall Street Journal",
+    "CNBC",
+    "Forbes",
+    "Wired",
+    "MIT Technology Review",
+    "VentureBeat",
+    "ZDNET",
+    "The Register",
+}
+
+LOW_QUALITY_NEWS_SOURCES = {
+    "Startup Fortune",
+    "Let's Data Science",
+    "ShiaWaves",
+}
+
+EVENT_TYPE_WEIGHTS = {
+    "incident": 1.0,
+    "regulation": 1.0,
+    "model": 0.9,
+    "business": 0.75,
+    "statement": 0.6,
+}
+
+AI_RELEVANCE_KEYWORDS = {
+    "ai",
+    "artificial intelligence",
+    "machine learning",
+    "llm",
+    "model",
+    "chatbot",
+    "openai",
+    "anthropic",
+    "chatgpt",
+    "gpt",
+    "deepseek",
+    "gemini",
+    "deepmind",
+    "meta ai",
+    "llama",
+    "qwen",
+    "kimi",
+    "moonshot",
+    "doubao",
+    "智谱",
+    "通义",
+    "千问",
+    "豆包",
+    "文心",
+    "模型",
+    "人工智能",
+    "大模型",
+    "智能体",
+    "具身智能",
 }
 
 
@@ -267,13 +346,126 @@ def classify(title, summary, config):
     return "business", "商业动态"
 
 
-def compute_score(group):
-    """
-    Compute importance score for an event group.
-    Score = mention_count * 2 (simple MVP formula).
-    """
+def get_source_type(article):
+    """Return collector source type with fallback for older raw data."""
+    if article.get("source_type"):
+        return article["source_type"]
+    if article.get("search_keyword"):
+        return "google_news"
+    return "rss"
+
+
+def source_weight(article):
+    source_name = article.get("source", "")
+    source_type = get_source_type(article)
+
+    if source_type == "rss":
+        if source_name in OFFICIAL_RSS_SOURCES:
+            return 1.0
+        if source_name in HIGH_QUALITY_RSS_SOURCES:
+            return 0.85
+        return 0.7
+
+    if source_name in REPUTABLE_NEWS_SOURCES:
+        return 0.7
+    if source_name in LOW_QUALITY_NEWS_SOURCES:
+        return 0.35
+    return 0.55
+
+
+def quality_score(group):
+    weights = sorted((source_weight(article) for article in group), reverse=True)
+    top_weights = weights[:3]
+    return sum(top_weights) / len(top_weights)
+
+
+def diversity_score(group):
+    source_types = {get_source_type(article) for article in group}
+    rss_sources = {article.get("source", "") for article in group if get_source_type(article) == "rss"}
+    distinct_sources = {article.get("source", "") for article in group}
+
+    if len(rss_sources) >= 2:
+        return 1.0
+    if "rss" in source_types and "google_news" in source_types:
+        return 0.8
+    if len(distinct_sources) > 1:
+        return 0.55
+    return 0.35
+
+
+def mention_score(group):
     mention_count = len(group)
-    return mention_count * 2
+    return min(1.0, math.log1p(mention_count) / math.log(8))
+
+
+def parse_iso_datetime(value):
+    if not value:
+        return None
+    try:
+        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed
+
+
+def time_decay_score(group, reference_time=None):
+    timestamps = []
+    for article in group:
+        parsed = parse_iso_datetime(article.get("timestamp"))
+        if parsed is None:
+            continue
+        timestamps.append(parsed)
+
+    if not timestamps:
+        return 1.0
+
+    reference_time = reference_time or datetime.now(timezone.utc)
+    reference_time = reference_time.astimezone(timezone.utc)
+    newest = max(timestamps)
+    age_hours = max(0, (reference_time - newest.astimezone(timezone.utc)).total_seconds() / 3600)
+    return 0.85 + 0.15 * math.exp(-age_hours / 48)
+
+
+def ai_relevance_score(group):
+    text = " ".join(
+        f"{article.get('title', '')} {article.get('summary', '')}"
+        for article in group
+    ).lower()
+    short_terms = {"ai", "llm", "gpt"}
+    if any(keyword not in short_terms and keyword in text for keyword in AI_RELEVANCE_KEYWORDS):
+        return 1.0
+    if re.search(r"(?<![a-z0-9])(?:ai|llm|gpt)(?![a-z0-9])", text):
+        return 1.0
+    return 0.25
+
+
+def compute_score(group, category_key, reference_time=None):
+    """Compute conservative hot score and explainable score components."""
+    quality = quality_score(group)
+    diversity = diversity_score(group)
+    mentions = mention_score(group)
+    event_type = EVENT_TYPE_WEIGHTS.get(category_key, 0.45)
+    time_decay = time_decay_score(group, reference_time)
+    ai_relevance = ai_relevance_score(group)
+
+    raw_score = 100 * (
+        0.45 * quality
+        + 0.25 * diversity
+        + 0.20 * mentions
+        + 0.10 * event_type
+    ) * time_decay * ai_relevance
+
+    breakdown = {
+        "quality": round(quality, 2),
+        "diversity": round(diversity, 2),
+        "mentions": round(mentions, 2),
+        "event_type": round(event_type, 2),
+        "time_decay": round(time_decay, 2),
+        "ai_relevance": round(ai_relevance, 2),
+    }
+    return round(raw_score), breakdown
 
 
 def process(raw_file=None):
@@ -300,6 +492,7 @@ def process(raw_file=None):
 
     articles = raw_data.get("articles", [])
     date = raw_data.get("date", "")
+    reference_time = parse_iso_datetime(raw_data.get("collected_at"))
     print(f"Processing {len(articles)} articles for {date}")
 
     # Load config for classification
@@ -324,13 +517,14 @@ def process(raw_file=None):
             source_name = article.get("source", "Unknown")
             source_url = article.get("url", "")
             source_title = clean_text(article.get("title", "")) or source_name
+            source_type = get_source_type(article)
             source_key = (source_name, source_url, source_title)
             if source_key not in seen_sources:
                 seen_sources.add(source_key)
-                sources.append({"name": source_name, "title": source_title, "url": source_url})
+                sources.append({"name": source_name, "title": source_title, "url": source_url, "source_type": source_type})
 
         mention_count = len(group)
-        importance_score = compute_score(group)
+        importance_score, score_breakdown = compute_score(group, category_key, reference_time)
 
         events.append({
             "id": generate_id(title),
@@ -341,6 +535,7 @@ def process(raw_file=None):
             "sources": sources,
             "mention_count": mention_count,
             "importance_score": importance_score,
+            "score_breakdown": score_breakdown,
             "timestamp": rep.get("timestamp", ""),
         })
 
@@ -377,4 +572,4 @@ def process(raw_file=None):
 
 
 if __name__ == "__main__":
-    process()
+    process(sys.argv[1] if len(sys.argv) > 1 else None)

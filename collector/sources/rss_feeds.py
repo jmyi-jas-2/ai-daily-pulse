@@ -99,6 +99,7 @@ def fetch_rss_feeds(target_date_str=None):
                 "summary": summary,
                 "url": link,
                 "source": name,
+                "source_type": "rss",
                 "timestamp": timestamp,
             })
 

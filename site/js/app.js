@@ -62,7 +62,7 @@
 
   // ===== Initialize =====
   async function init() {
-    const targetDate = getYesterday();
+    const targetDate = getRequestedDate();
     const loaded = await loadDayData(targetDate);
 
     if (!loaded) {
@@ -95,6 +95,12 @@
 
   function getYesterday() {
     return getBeijingDate(-1);
+  }
+
+  function getRequestedDate() {
+    const params = new URLSearchParams(window.location.search);
+    const dateParam = params.get('date');
+    return /^\d{4}-\d{2}-\d{2}$/.test(dateParam || '') ? dateParam : getYesterday();
   }
 
   function formatTime(timestamp) {
@@ -382,14 +388,14 @@
       window.open(item.dataset.url, '_blank', 'noopener');
     });
 
-    // Refresh: reload previous-day data
+    // Refresh: reload selected data date
     document.getElementById('refreshBtn').addEventListener('click', async () => {
       const btn = document.getElementById('refreshBtn');
       btn.textContent = '刷新中...';
       btn.style.borderColor = 'var(--accent)';
       btn.style.color = 'var(--accent)';
 
-      const targetDate = getYesterday();
+      const targetDate = currentDataDate || getRequestedDate();
       const loaded = await loadDayData(targetDate);
       if (loaded) {
         renderHero();
